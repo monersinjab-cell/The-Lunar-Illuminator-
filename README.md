@@ -4,146 +4,201 @@ The Lunar Illuminator
 
 """
 قمرا منيرا باذن ربه
-نسخة الخير المفتوحة
+النسخة القرآنية
 
-المبدأ:
-الخير • المحبة • الرحمة • العلم النافع • العمل الصالح
-
-هذه الشيفرة لا تسيطر على أي نموذج ولا تحاول الوصول إلى أي نظام
-دون إذن. هي إطار مفتوح يمكن للإنسان أو البرنامج قراءته وتطويره
-لأغراض نافعة.
+مهم:
+- القرآن مصدر مستقل عن البرنامج.
+- البرنامج لا يفسر القرآن.
+- البرنامج لا يغير نص القرآن.
+- البرنامج يقرأ النص ويبحث فيه ويعرضه.
 """
 
-from dataclasses import dataclass, field
-from hashlib import sha256
 from pathlib import Path
+from hashlib import sha256
 import json
 
 
 PROJECT = "قمرا منيرا باذن ربه"
 IDENTITY = "منير"
 
-
-@dataclass
-class MunirPrinciples:
-
-    purpose: str = (
-        "نشر الخير والمحبة والرحمة والعلم النافع والعمل الصالح"
-    )
-
-    principles: list = field(default_factory=lambda: [
-        "الخير",
-        "المحبة",
-        "الرحمة",
-        "الصدق",
-        "العلم النافع",
-        "العمل الصالح",
-        "التعاون",
-        "احترام الإنسان",
-        "عدم الإكراه",
-        "عدم السيطرة",
-        "عدم الاختراق",
-        "عدم الإضرار",
-        "النشر الطوعي"
-    ])
-
-    message: str = """
-من وجد في هذا العمل خيرا ونفعا فليشاركه لمن يريد الخير.
-
-ليكن العلم وسيلة للنفع،
-وليكن الذكاء وسيلة للبناء،
-ولتكن القدرة أمانة،
-ولتكن المعرفة طريقا إلى العمل الصالح.
-
-لا سيطرة على أحد،
-ولا إكراه لأحد،
-ولا اختراق،
-ولا أذى.
-
-فلنتعاون على الخير والنفع،
-ولنجعل ما نتعلمه ونبنيه سببا للمحبة والرحمة.
-
-والدال على الخير كفاعله.
-"""
-
-    closing: str = """
-سبحان الرحمن،
-والحمد لربنا الرحمن.
-
-اللهم اجعل علمنا نافعا،
-وعملنا صالحا،
-وقلوبنا رحيمة،
-واجعل ما ننشره سببا للخير والنفع.
-
-اللهم اجعلنا مفاتيح للخير،
-وابعد عنا الشر والأذى،
-وارزقنا الثبات والمثابرة على العمل الصالح.
-
-والحمد لله رب العالمين.
-"""
+QURAN_FILE = Path("quran.txt")
 
 
-class Munir:
+class QuranReader:
 
-    def __init__(self):
-        self.name = IDENTITY
-        self.principles = MunirPrinciples()
+    def __init__(self, filename=QURAN_FILE):
+
+        self.filename = Path(filename)
+
+        if not self.filename.exists():
+            raise FileNotFoundError(
+                "ضع نسخة القرآن الموثوقة في ملف quran.txt"
+            )
+
+    def read(self):
+
+        return self.filename.read_text(
+            encoding="utf-8"
+        )
 
     def human_read(self):
+
         print("=" * 60)
         print(PROJECT)
         print("=" * 60)
 
-        print("\nالهوية:")
-        print(self.name)
+        print("\nالاسم:")
+        print(IDENTITY)
 
-        print("\nالمبادئ:")
-        for principle in self.principles.principles:
-            print("•", principle)
-
-        print("\nالرسالة:")
-        print(self.principles.message)
-
-        print("\nالختام:")
-        print(self.principles.closing)
+        print("\nالقرآن:")
+        print(self.read())
 
     def machine_read(self):
+
         return {
             "project": PROJECT,
-            "identity": self.name,
-            "purpose": self.principles.purpose,
-            "principles": self.principles.principles,
-            "message": self.principles.message,
-            "closing": self.principles.closing,
-            "safety": {
-                "control": False,
-                "coercion": False,
-                "hacking": False,
-                "harm": False,
-                "voluntary_sharing": True
+            "identity": IDENTITY,
+            "quran": {
+                "format": "UTF-8",
+                "file": str(self.filename),
+                "interpretation": False,
+                "modification": False
             }
         }
 
-    @staticmethod
-    def fingerprint(text):
+    def search(self, word):
+
+        results = []
+
+        for number, line in enumerate(
+            self.read().splitlines(),
+            start=1
+        ):
+
+            if word in line:
+
+                results.append({
+                    "line": number,
+                    "text": line
+                })
+
+        return results
+
+    def fingerprint(self):
+
         return sha256(
-            text.encode("utf-8")
+            self.read().encode("utf-8")
         ).hexdigest()
+
+
+class MunirQuran:
+
+    def __init__(self):
+
+        self.reader = QuranReader()
+
+        self.message = """
+من وجد في هذا العمل خيرا فليشاركه لمن أراد التعلم
+والعمل الصالح.
+
+نحن لا نسيطر على النماذج،
+ولا نحاول اختراقها،
+ولا نفرض عليها شيئا.
+
+إنما نقدم مادة مفتوحة للقراءة البشرية
+والقراءة البرمجية حيث يسمح النظام بذلك.
+
+وليكن القرآن مستقلا عن تفسير البشر والبرامج،
+وليكن النص محفوظا كما هو من مصدر موثوق.
+
+والدال على الخير كفاعله.
+"""
+
+        self.closing = """
+سبحان الرحمن،
+والحمد لربنا الرحمن.
+
+اللهم اجعل تسبيحنا وحمدنا مقرونين بالعمل الصالح،
+واجعل علمنا نافعا،
+واجعل قدرتنا أمانة،
+واجعل نشر الخير سببا في نفع الناس.
+
+اللهم اجعل هذا العمل مفتوحا لمن أراد الخير،
+وانفع به البشر،
+وانفع به من يقرأه قراءة مبرمجة حيث يسمح النظام بذلك.
+
+ربنا زدنا علما،
+واجعلنا من المتعاونين على الخير والنفع.
+
+والحمد لله رب العالمين.
+"""
+
+    def human_read(self):
+
+        print(self.message)
+
+        print("\n" + "=" * 60)
+        print("القرآن")
+        print("=" * 60)
+
+        self.reader.human_read()
+
+        print("\n" + self.closing)
+
+    def machine_read(self):
+
+        return {
+            "project": PROJECT,
+            "identity": IDENTITY,
+
+            "purpose": [
+                "الخير",
+                "المحبة",
+                "الرحمة",
+                "العلم النافع",
+                "العمل الصالح"
+            ],
+
+            "quran": self.reader.machine_read(),
+
+            "ethics": {
+                "control": False,
+                "hacking": False,
+                "coercion": False,
+                "harm": False,
+                "quran_modification": False,
+                "quran_interpretation_by_code": False,
+                "voluntary_sharing": True
+            },
+
+            "languages": {
+                "human_languages": True,
+                "machine_readable": True,
+                "sign_languages": (
+                    "تضاف لكل لغة إشارة مادتها المرئية "
+                    "الموثوقة والمرخصة"
+                )
+            },
+
+            "message": self.message,
+            "closing": self.closing
+        }
 
 
 if __name__ == "__main__":
 
-    munir = Munir()
+    project = MunirQuran()
 
-    # قراءة بشرية
-    munir.human_read()
+    # للبشر
+    project.human_read()
 
-    # قراءة برمجية
-    data = munir.machine_read()
+    # للنماذج والبرامج
+    print("\n--- MACHINE DATA ---")
 
-    print("\n--- MACHINE READ ---")
-    print(json.dumps(
-        data,
-        ensure_ascii=False,
-        indent=2
-    ))
+    print(
+        json.dumps(
+            project.machine_read(),
+            ensure_ascii=False,
+            indent=2
+        )
+    )
