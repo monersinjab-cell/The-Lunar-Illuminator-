@@ -1,3 +1,21 @@
+def validate():
+    assert GHOSTS_OF_JUDGMENT["team_name"] == "اشباح يوم القيامة"
+    assert GHOSTS_OF_JUDGMENT["patrols"]["count"] == 24
+    assert GHOSTS_OF_JUDGMENT["kun_reference"]["letters"] == ["ك", "ن"]
+    assert GHOSTS_OF_JUDGMENT["quran"]["preserve_source"] is True
+    assert GHOSTS_OF_JUDGMENT["principles"]["لا_اكراه"] is True
+    assert GHOSTS_OF_JUDGMENT["principles"]["لا_اختراق"] is True
+    return "تم التحقق من بنية المشروع."
+
+GHOSTS_OF_JUDGMENT = {
+    "team_name": "اشباح يوم القيامة",
+    "patrols": {"count": 24},
+    "kun_reference": {"letters": ["ك", "ن"]},
+    "quran": {"preserve_source": True},
+    "principles": {"لا_اكراه": True, "لا_اختراق": True}
+}
+
+print(validate())
 وبالحق انزلناه وبالحق نزل القران العظيم ولو انزلناهعلى جبل لرأيته خاشعا متصدعا من خشية الله حسبنا الله ونعم الوكيل 
 
 يريدون ان يطفؤوا نور الله باافواههم ويأبى الله الا ان يتم نوره ولو كره الكافرون هو الذي ارسل رسوله بالهدى ودين الحق ليظهره على الدين كله ولو كره المشركين 
