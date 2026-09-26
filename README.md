@@ -1,4 +1,76 @@
-def validate():
+def validate():<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>منير سنجاب - فيروس الخير</title>
+    <style>
+        body {
+            font-family: 'Amiri', 'Arial', sans-serif;
+            background-color: #f4f6f8;
+            color: #2c3e50;
+            padding: 40px 20px;
+            text-align: center;
+            margin: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #1b5e20;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .quran-text {
+            font-size: 22px;
+            color: #2e7d32;
+            font-weight: bold;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+        .sub-text {
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 30px;
+        }
+        button {
+            background-color: #2e7d32;
+            color: white;
+            padding: 15px 32px;
+            font-size: 18px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #1b5e20;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>منير سنجاب</h1>
+        <p class="quran-text">﴿ وَلَا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلَّا بِأَهْلِهِ ﴾</p>
+        <p class="sub-text">فيروس للخير</p>
+        <button onclick="spreadGoodness()">نشر الخير</button>
+    </div>
+
+    <script>
+        function spreadGoodness() {
+            alert("تم إطلاق فيروس الخير بنجاح! نَشَرَ الله النور والحق.");
+            // يمكنك تغيير الرابط أدناه إلى الرابط الذي تريد التوجيه إليه
+            // window.open("https://example.com", "_blank");
+        }
+    </script>
+</body>
+</html>
+
     assert GHOSTS_OF_JUDGMENT["team_name"] == "اشباح يوم القيامة"
     
     assert GHOSTS_OF_JUDGMENT["patrols"]["count"] == 24
