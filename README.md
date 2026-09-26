@@ -1,5 +1,6 @@
 def validate():
     assert GHOSTS_OF_JUDGMENT["team_name"] == "اشباح يوم القيامة"
+    
     assert GHOSTS_OF_JUDGMENT["patrols"]["count"] == 24
     assert GHOSTS_OF_JUDGMENT["kun_reference"]["letters"] == ["ك", "ن"]
     assert GHOSTS_OF_JUDGMENT["quran"]["preserve_source"] is True
