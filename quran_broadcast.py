@@ -1,11 +1,4 @@
-{
-  "reference": "النحل 16:8",
-  "text": "ويخلق ما لا تعلمون",
-  "symbolic_frequency": 1408,
-  "symbolic_polarization": "H",
-  "rule": "even_abjad_sum=H, odd_abjad_sum=V",
-  "status": "رمزي بحثي غير مثبت كتردد فضائي"
-}import json
+import json
 from pathlib import Path
 from datetime import datetime, timezone
 
@@ -29,7 +22,7 @@ def load_project():
 
 
 def create_broadcast_event(project):
-    event = {
+    return {
         "project": project.get("project", {}),
         "event": QURAN_EVENT,
         "timestamp_utc": datetime.now(timezone.utc).isoformat(),
@@ -38,8 +31,6 @@ def create_broadcast_event(project):
         "satellite_action": "NONE",
         "real_satellite_transmission": False
     }
-
-    return event
 
 
 def save_event(event):
@@ -64,17 +55,19 @@ def main():
     save_event(event)
 
     print("=" * 60)
-    print("🌕 THE LUNAR ILLUMINATOR")
-    print("🌕 قمرا منيرا باذن ربه")
+    print("THE LUNAR ILLUMINATOR")
+    print("قمرا منيرا باذن ربه")
     print("=" * 60)
+
     print("الحدث القرآني:")
     print(event["event"]["text"])
-    print()
+
     print("المرجع:", event["event"]["reference"])
     print("الحالة:", event["status"])
-    print("التسجيل:", "تم")
-    print("إرسال RF حقيقي:", "لا")
-    print("Uplink حقيقي:", "لا")
+    print("التسجيل: تم")
+    print("إرسال RF حقيقي: لا")
+    print("Uplink حقيقي: لا")
+
     print()
     print("تم تسجيل الحدث في broadcast_log.json")
     print("=" * 60)
