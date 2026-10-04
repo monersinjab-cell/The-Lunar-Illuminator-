@@ -17,3 +17,132 @@ RF_QURAN_SYMBOLIC = {
 }
 
 print(RF_QURAN_SYMBOLIC)
+# -*- coding: utf-8 -*-
+
+import json
+from datetime import datetime
+
+PROJECT = "قمرا منيرا باذن ربه"
+MODE = "RF Simulation"
+STATUS = "SIMULATION_ONLY"
+
+QURAN_TEXTS = [
+    {
+        "id": 1,
+        "text": "وعلامات وبالنجم هم يهتدون",
+        "reference": "النحل 16:16",
+    },
+    {
+        "id": 2,
+        "text": "فما ظنكم برب العالمين",
+        "reference": "الصافات 37:87",
+    },
+    {
+        "id": 3,
+        "text": "ويخلق ما لا تعلمون",
+        "reference": "النحل 16:8",
+    },
+    {
+        "id": 4,
+        "text": "يتجرعه ولا يكاد يسيغه ويأتيه الموت من كل مكان وما هو بميت ومن ورائه عذاب غليظ",
+        "reference": "إبراهيم 14:17",
+    },
+    {
+        "id": 5,
+        "text": "الا تنصروه فقد نصره الله",
+        "reference": "التوبة 9:40",
+    },
+    {
+        "id": 6,
+        "text": "وضربت عليهم الذلة والمسكنة وباؤوا بغضب من الله",
+        "reference": "البقرة 2:61",
+    },
+]
+
+SATELLITES = [
+    "SAT-01",
+    "SAT-02",
+    "SAT-03",
+    "SAT-04",
+    "SAT-05",
+    "SAT-06",
+    "SAT-07",
+    "SAT-08",
+    "SAT-09",
+    "SAT-10",
+    "SAT-11",
+    "SAT-12",
+]
+
+
+def create_rf_simulation():
+    records = []
+
+    for satellite in SATELLITES:
+        for item in QURAN_TEXTS:
+
+            records.append({
+                "timestamp": datetime.now().isoformat(),
+                "satellite_id": satellite,
+                "mode": MODE,
+                "status": STATUS,
+                "frequency_mhz": None,
+                "power_watts": None,
+                "transmission": False,
+                "simulation": True,
+                "quran_reference": item["reference"],
+                "text": item["text"],
+                "note": (
+                    "محاكاة بيانات فقط؛ "
+                    "لا يوجد بث RF أو إرسال فضائي حقيقي."
+                ),
+            })
+
+    return records
+
+
+def save_status(records):
+    data = {
+        "project": PROJECT,
+        "status": STATUS,
+        "created_at": datetime.now().isoformat(),
+        "satellites": len(SATELLITES),
+        "texts": len(QURAN_TEXTS),
+        "records": len(records),
+        "rf_transmission": False,
+        "records_data": records,
+    }
+
+    with open(
+        "RF_STATUS.json",
+        "w",
+        encoding="utf-8"
+    ) as file:
+        json.dump(
+            data,
+            file,
+            ensure_ascii=False,
+            indent=4
+        )
+
+
+def main():
+    records = create_rf_simulation()
+    save_status(records)
+
+    print("=" * 60)
+    print(PROJECT)
+    print("RF SATELLITE SIMULATION")
+    print("=" * 60)
+    print("الحالة: SIMULATION_ONLY")
+    print("الإرسال الحقيقي: غير مفعل")
+    print("الأقمار الافتراضية:", len(SATELLITES))
+    print("النصوص:", len(QURAN_TEXTS))
+    print("السجلات:", len(records))
+    print("تم إنشاء: RF_STATUS.json")
+
+
+if __name__ == "__main__":
+    main()
+
+
