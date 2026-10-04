@@ -3,50 +3,17 @@ from pathlib import Path
 
 PROJECT_FILE = Path(__file__).parent / "project.json"
 
-def load_project():
-    with PROJECT_FILE.open("r", encoding="utf-8") as file:
-        return json.load(file)
-
-def main():
-    project = load_project()
-    satellite = project.get("satellite", {})
-
-    print("=" * 50)
-    print("THE LUNAR ILLUMINATOR")
-    print("=" * 50)
-    print(f"Satellite    : {satellite.get('name')}")
-    print(f"Channel      : {satellite.get('channel')}")
-    print(f"Frequency    : {satellite.get('frequency_mhz')} MHz")
-    print(f"Polarization : {satellite.get('polarization')}")
-    print(f"Symbol Rate  : {satellite.get('symbol_rate_ksps')} kS/s")
-    print(f"System       : {satellite.get('system')}")
-    print(f"Modulation   : {satellite.get('modulation')}")
-    print(f"FEC          : {satellite.get('fec')}")
-    print(f"Video Codec  : {satellite.get('video_codec')}")
-    print("=" * 50)
-    print("عرض الإعدادات فقط — لا يوجد إرسال فضائي.")
-
-if __name__ == "__main__":
-    main()import json
-from pathlib import Path
-
-# ملف الإعدادات الموجود بجانب هذا الملف
-PROJECT_FILE = Path(__file__).parent / "project.json"
-
 
 def load_project():
     """قراءة project.json تلقائيا."""
     if not PROJECT_FILE.exists():
-        raise FileNotFoundError(
-            "لم يتم العثور على project.json"
-        )
+        raise FileNotFoundError("لم يتم العثور على project.json")
 
     with PROJECT_FILE.open("r", encoding="utf-8") as file:
         return json.load(file)
 
 
-def display_satellite_config(project):
-    """عرض إعدادات BulgariaSat 1."""
+def display_config(project):
     satellite = project.get("satellite", {})
     broadcast = project.get("broadcast", {})
 
@@ -66,7 +33,7 @@ def display_satellite_config(project):
     print(f"Video Codec     : {satellite.get('video_codec', 'غير محدد')}")
 
     print("-" * 55)
-    print(f"Mode            : {broadcast.get('mode', 'غير محدد')}")
+    print(f"Mode            : {broadcast.get('mode', 'display-only')}")
     print(f"RF Transmission : {broadcast.get('rf_transmission', False)}")
     print("-" * 55)
 
@@ -78,7 +45,7 @@ def display_satellite_config(project):
 def main():
     try:
         project = load_project()
-        display_satellite_config(project)
+        display_config(project)
 
     except FileNotFoundError as error:
         print(f"خطأ: {error}")
@@ -93,5 +60,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
