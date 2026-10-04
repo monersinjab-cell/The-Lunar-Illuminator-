@@ -1,0 +1,19 @@
+RF_QURAN_SYMBOLIC = {
+    "quran_reference": "النحل 16:8",
+    "quran_text": "ويخلق ما لا تعلمون",
+
+    "symbolic_frequency": 1408,
+    "symbolic_polarization": "H",
+
+    "rule": {
+        "frequency": "مجموع ابجد النص",
+        "polarization": "زوجي = H، فردي = V"
+    },
+
+    "status": "رمز بحثي رمزي فقط",
+    "real_rf_frequency": False,
+    "real_rf_transmission": False,
+    "satellite_uplink": False
+}
+
+print(RF_QURAN_SYMBOLIC)
