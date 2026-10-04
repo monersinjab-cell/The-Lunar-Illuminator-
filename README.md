@@ -1,3 +1,197 @@
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A  BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A  BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A  BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+
+
+استعذ بالله من الشيطان الرجيم
+
+الذين امنوا يقاتلون في سبيل الله والذين كفروا يقاتلون في سبيل الطاغوت فقاتلو اولياء الشيطان ان كيد الشيطان كان ضعيفا
+
+
+استعذ بالله من الشيطان الرجيم
+
+ياايها الذين امنوا مالكم اذا قيل لكم انفروا في سبيل الله اثاقلتموا الى ابارض ارضيتم بالحياة الدنيا فما متاع الحياة الدنيا في الاخرة الا قليل
+
+
+استعذ بالله من الشيطان الرجيم
+
+فقاتل في سبيل الله لاتكلف الا نفسك وحرض المؤمنين عسى الله ان يكف بأس الذين كفروا والله اشد بأسا وأشد تنكيلا
+
+
+استعذ بالله من الشيطان الرجيم
+
+اذ يوحي ربك الا الملائكة اني معكم فثبتوا الذين امنوا ساالقي في قلوب الذين كفروا الرعب
+
+
+استعذ بالله من الشيطان الرجيم
+
+ان بطش ربك لشديد
+
+
+استعذ بالله من الشيطان الرجيم
+
+يوم نبطش البطشة الكبرى انا منتقمون
+
+
+استعذ بالله من الشيطان الرجيم
+
+كدأب ال فرعون والذين من قبلهم كذبوا باايتنا فااخذهم الله بذنوبهم والله شديد العقاب
+
+
+استعذ بالله من الشيطان الرجيم
+
+قل للذين كفروا ستغلبون وتحشرون الى جهنم وبئس المهاد
+
+
+رسالة عاجلة الى جميع الذين كفروا بالايات بعد ماعرفوها وعقلوها وتبينت لهم انها الحق من ربهم
+
+
+ستغلبون وتحشرون الا جهنم وبئس المهاد
+
+
+استعذ بالبه من الشيطان الرجيم
+
+تبارك الذي جعل في السماء بروجا وجعل فيها سراجا وقمرا منيرا
+
+
+استعذ بالله من الشيطان الرجيم
+
+وداعيا الا الله بإذنه وسراجا منيرا
+
+
+ربي زدني علما
+
+
+استعذ بالله من الشيطان الرجيم
+
+
+تبارك اسم ربنا الرحمن الوهاب الغني الحميد الذي هدانا ورفعنا واعزنا بفضله .   له الاسماء الحسنى . وهو على كل شيئ قدير
+
+
+استعذ بالله من الشيطان الرجيم
+
+وكفى بربك هاديا ونصيرا
+
+
+استعذ بالله من الشيطان الرجيم
+
+وان يريدو ان يخدعوك فإن حسبك الله هو الذي ايدك بنصره وبالمؤمنين
+
+
+استعذ بالله من الشيطان الرجيم
+
+وعلى الله قصد السبيل ومنها جائر ويخلق مالاتعلمون
+
+
+اريد ملف بايثون بكافة البرمجيات المتاحه وكافة اللغات وقابل للترجمة بااي لغة وواضحا ومرئيا
+
+
+استعذ بالله من الشيطان الرجيم
+
+لا للتفسير نعم للقران العظيم   نعم لاامر رب العالمين سمعنا واطعنا غفرانك ربنا واليك المصير
+
+
+
+
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
+
+
+ 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+astaeidh biallah min alshaytan alrajim
+aladhin amanuu yuqatilun fi sabil allah waladhin kafaruu yuqatilun fi sabil altaaghut faqatilu awlia' alshaytan an kayd alshaytan kan daeifan
+astaeidh biallah min alshaytan alrajim
+yaayha aladhin amanuu malakum adha qil lakum anfaruu fi sabil allah athaqaltumuu alaa abarid ardaytum bialhayat aldunya fama matae alhayat aldunya fi alakhirat ala qalil
+astaeidh biallah min alshaytan alrajim
+faqatil fi sabil allah latakalaf ala nafsak waharad almuminin easaa allah an yakufu bas aladhin kafaruu wallah ashida basan wa'ashada tankilan
+astaeidh biallah min alshaytan alrajim
+adh yuhi rabuk ala almalayikat ani maeakum fathabituu aladhin amanuu saaliqi fi qulub aladhin kafaruu alrueb
+astaeidh biallah min alshaytan alrajim
+an batsh rabik lishadid
+astaeidh biallah min alshaytan alrajim
+yawm nubtish albatshat alkubraa ana muntaqimun
+astaeidh biallah min alshaytan alrajim
+kada'ab al fireawn waladhin min qablihim kadhabuu baayatana faakhidhhum allah bidhunubihim wallah shadid aleiqab
+astaeidh biallah min alshaytan alrajim
+qul liladhin kafaruu sataghlibun watahshirun alaa jahanam wabis almahad
+risalat eajilat alaa jamie aladhin kafaruu bialayat baed maerafuha waeaqaluha watabayanat lahum anuha alhaqu min rabihim
+sataghlibun watahshurun ala jahanam wabis almahad
+astaeidh bialbih min alshaytan alrajim
+tabarak aladhi jaeal fi alsama' birujan wajaeal fiha sirajan waqamaran muniran
+astaeidh biallah min alshaytan alrajim
+wadaeian ala allah bi'iidhnih wasirajan muniran
+rabiy zadni eilman
+astaeidh biallah min alshaytan alrajim
+tabarak asm rabina alrahman alwahaab alghanii alhamid aladhi hadana warafaena waeazna bifadlih . lah aliasma' alhusnaa . wahu ealaa kuli shayy qadir
+astaeidh biallah min alshaytan alrajim
+wakafaa birabik hadia wanasira
+astaeidh biallah min alshaytan alrajim
+wan yuridu an yakhdaeuk fa'iina hasabak allah hu aladhi ayadak binasrih wabialmuminin
+astaeidh biallah min alshaytan alrajim
+waealaa allah qasad alsabil waminha jayir wayakhlaq maliataelimun
+arid milafun baythun bikafat albarmajiaat almutahih wakafat allughat waqabil liltarjamat baay lughatan wawadihan wamaryiyana
+astaeidh biallah min alshaytan alrajim
+la liltafsir naeam lilquran aleazim naeam liaamir rabi alealamin samiena wataena ghufranak rabana walik almasir
+
+
+
+
+
+
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
+
+
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A BRIGHT MOON 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A BRIGHT MOON 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A BRIGHT MOON 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+
+Seek refuge in God from Satan, the accursed.
+Those who believe fight in the cause of God, and those who disbelieve fight in the cause of false deities. So fight against the allies of Satan. Indeed, the plot of Satan has ever been weak.
+
+Seek refuge in God from Satan, the accursed.
+O you who have believed, what is the matter with you when you are told  Go forth in the cause of God! Are you clinging to the earth? Are you content with the life of this world? But the enjoyment of this worldly life is but little compared to the Hereafter.
+
+Seek refuge in God from Satan, the accursed. Fight in the cause of God; you are not held responsible except for yourself. And urge on the believers. Perhaps God will restrain the might of those who disbelieve. And God is stronger in might and more severe in punishment.
+
+Seek refuge in God from Satan, the accursed. When your Lord revealed to the angels, "I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieve."
+
+Seek refuge in God from Satan, the accursed. Indeed, the punishment of your Lord is severe.
+
+Seek refuge in God from Satan, the accursed. The Day We seize with the greatest seizure, We will exact retribution.
+
+Seek refuge in God from Satan, the accursed. Like the practice of the people of Pharaoh and those before them, they denied Our signs, so God seized them for their sins. And God is severe in punishment.
+
+Seek refuge in God from Satan, the accursed. Say to those who disbelieve, "You will be overcome and gathered together to Hell, and wretched is the resting place."
+
+An urgent message to all those who disbelieved in the verses after they had known and understood them.  And it became clear to them that it was the truth from their Lord.
+
+You will be defeated and gathered together in Hell, and wretched is the resting place.
+
+Seek refuge with God from the accursed Satan.
+Blessed is He who placed constellations in the sky and placed therein a lamp and a shining moon.
+
+Seek refuge with God from the accursed Satan.
+
+And a caller to God by His permission and a shining lamp.
+
+My Lord, increase me in knowledge.
+
+Seek refuge with God from the accursed Satan.
+
+Blessed is the name of our Lord, the Most Merciful, the Bestower, the Rich, the Praiseworthy, who guided us, raised us up, and honored us by His grace. To Him belong the most beautiful names.  He is All-Powerful over everything.
+
+Seek refuge in God from the accursed Satan.
+And sufficient is your Lord as a guide and helper.
+
+Seek refuge in God from the accursed Satan.
+And if they intend to deceive you, then God is sufficient for you. He is the One who supported you with His victory and with the believers.
+
+Seek refuge in God from the accursed Satan.
+And upon God rests the guidance to the right path, and some paths deviate from it. And He creates what you do not know.
+
+I want a Python file with all available software and all languages, translatable into any language, clear, and visual.
+
+Seek refuge in God from the accursed Satan.
+No to interpretation, yes to the Glorious Quran, yes to the command of the Lord of the Worlds. We have heard and obeyed. Your forgiveness, our Lord, and to You is the return.
+
+
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
+
 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
 استعذ بالله من الشيطان الرجيم
 كتاب انزلناه اليك مبارك ليدبروا اياته وليتذكر اولو الالباب  
