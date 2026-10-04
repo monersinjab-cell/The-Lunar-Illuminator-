@@ -1,3 +1,372 @@
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+استعذ بالله من الشيطان الرجيم
+كتاب انزلناه اليك مبارك ليدبروا اياته وليتذكر اولو الالباب  
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
+استعذ بالله من الشيطان الرجيم 
+ويخلق مالاتعلمون 
+
+
+استعذ بالله من الشيطان الرجيم
+
+ان ربك هو الخلاق العليم 
+
+استعذ بالله من الشيطان الرجيم
+
+ولقد اتيناك سبعا من المثاني والقران العظيم 
+
+استعذ بالله من الشيطان الرجيم
+
+فااصدع بما تؤمر واعرض عن المشركين 
+
+استعذ بالله من الشيطان الرجيم 
+
+يوم يرون الملائكة لابشرى يومئذ للمشركين 
+
+استعذ بالله من الشيطان الرجيم
+
+ ان هو الا وحي يوحى
+
+استعذ بالله من الشيطان الرجيم
+
+فاذا عزمت فتوكل على الله 
+
+استعذ بالله من الشيطان الرجيم
+
+وقل ربي زدني علما 
+
+استعذ بالله من الشيطان الرجيم
+
+وسنجزي المحسنين 
+
+استعذ بالله من الشيطان الرجيم
+
+تبارك اسم ربنا الرحمن الوهاب الغني الحميد الخالق البارئ المصور العزيز المعز المنتقم الجبار القهار الحق المبين الذي هدانا ورفعنا واعزنا بفضله. له الاسماء الحسنى .وهو على كل شيئ قدير 
+
+
+استعذ بالله من الشيطان الرجيم
+
+والعاقبة للمتقين 
+
+استعذ بالله من الشيطان الرجيم
+
+وسيعلم الذين ظلموا اي منقلب ينقلبون 
+
+
+
+
+استعذ بالله من الشيطان الرجيم
+قُلْ إِن كَانَتْ لَكُمُ الدَّارُ الْآخِرَةُ عِندَ اللَّهِ خَالِصَةً مِّن دُونِ النَّاسِ فَتَمَنَّوُا الْمَوْتَ إِن كُنتُمْ صَادِقِينَ (94)  البقرة
+
+استعذ بالله من الشيطان الرجيم
+وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ 
+وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ 
+وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ 
+فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ 
+وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ 
+وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ 
+وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ 
+وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ (102)  البقرة
+
+استعذ بالله من الشيطان الرجيم
+ وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَاجِدَ اللَّهِ أَن يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا ۚ 
+أُولَٰئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَا إِلَّا خَائِفِينَ ۚ 
+لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ (114)   البقرة
+
+استعذ بالله من الشيطان الرجيم
+وَمَن يَرْغَبُ عَن مِّلَّةِ إِبْرَاهِيمَ إِلَّا مَن سَفِهَ نَفْسَهُ ۚ وَلَقَدِ اصْطَفَيْنَاهُ فِي الدُّنْيَا ۖ 
+وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ (130)   البقرة
+
+استعذ بالله من الشيطان الرجيم
+فَإِذَا قَضَيْتُم مَّنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ 
+فَمِنَ النَّاسِ مَن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ (200) وَمِنْهُم مَّن يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ (201)   البقرة
+
+
+استعذ بالله من الشيطان الرجيم
+ إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلًا أُولَٰئِكَ لَا خَلَاقَ لَهُمْ فِي الْآخِرَةِ وَلَا يُكَلِّمُهُمُ اللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ الْقِيَامَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ (77) آل عمران
+
+
+استعذ بالله من الشيطان الرجيم
+ وَمَن يَبْتَغِ غَيْرَ الْإِسْلَامِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ (85)  آل عمران
+
+استعذ بالله من الشيطان الرجيم
+وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا مُّؤَجَّلًا ۗ 
+وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا ۚ 
+وَسَنَجْزِي الشَّاكِرِينَ (145)  آل عمران
+استعذ بالله من الشيطان الرجيم
+فَآتَاهُمُ اللَّهُ ثَوَابَ الدُّنْيَا وَحُسْنَ ثَوَابِ الْآخِرَةِ ۗ 
+وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ (148) آل عمران
+استعذ بالله من الشيطان الرجيم
+ وَلَقَدْ صَدَقَكُمُ اللَّهُ وَعْدَهُ إِذْ تَحُسُّونَهُم بِإِذْنِهِ ۖ 
+حَتَّىٰ إِذَا فَشِلْتُمْ وَتَنَازَعْتُمْ فِي الْأَمْرِ وَعَصَيْتُم مِّن بَعْدِ مَا أَرَاكُم مَّا تُحِبُّونَ ۚ 
+مِنكُم مَّن يُرِيدُ الدُّنْيَا وَمِنكُم مَّن يُرِيدُ الْآخِرَةَ ۚ 
+ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ 
+وَلَقَدْ عَفَا عَنكُمْ ۗ 
+وَاللَّهُ ذُو فَضْلٍ عَلَى الْمُؤْمِنِينَ (152) 
+آل عمران
+استعذ بالله من الشيطان الرجيم
+وَلَا يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ ۚ 
+إِنَّهُمْ لَن يَضُرُّوا اللَّهَ شَيْئًا ۗ 
+يُرِيدُ اللَّهُ أَلَّا يَجْعَلَ لَهُمْ حَظًّا فِي الْآخِرَةِ ۖ 
+وَلَهُمْ عَذَابٌ عَظِيمٌ (176)  آل عمران
+
+استعذ بالله من الشيطان الرجيم
+ الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۖ 
+وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ 
+وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِن قَبْلِكُمْ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ وَلَا مُتَّخِذِي أَخْدَانٍ ۗ 
+وَمَن يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ (5)  المائدة
+استعذ بالله من الشيطان الرجيم
+ إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَن يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَافٍ أَوْ يُنفَوْا مِنَ الْأَرْضِ ۚ 
+ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ 
+وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ (33)  المائدة
+
+استعذ بالله من الشيطان الرجيم
+۞ يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ تُؤْمِن قُلُوبُهُمْ ۛ وَمِنَ الَّذِينَ هَادُوا ۛ سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ آخَرِينَ لَمْ يَأْتُوكَ ۖ 
+يُحَرِّفُونَ الْكَلِمَ مِن بَعْدِ مَوَاضِعِهِ ۖ 
+يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِن لَّمْ تُؤْتَوْهُ فَاحْذَرُوا ۚ 
+وَمَن يُرِدِ اللَّهُ فِتْنَتَهُ فَلَن تَمْلِكَ لَهُ مِنَ اللَّهِ شَيْئًا ۚ 
+أُولَٰئِكَ الَّذِينَ لَمْ يُرِدِ اللَّهُ أَن يُطَهِّرَ قُلُوبَهُمْ ۚ 
+لَهُمْ فِي الدُّنْيَا خِزْيٌ ۖ 
+وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ (41)  المائدة
+
+
+
+استعذ بالله من الشيطان الرجيم
+ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا لَعِبٌ وَلَهْوٌ ۖ 
+وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ 
+أَفَلَا تَعْقِلُونَ (32)   الأنعام
+استعذ بالله من الشيطان الرجيم
+ وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا وَلِقَاءِ الْآخِرَةِ حَبِطَتْ أَعْمَالُهُمْ ۚ 
+هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا يَعْمَلُونَ (147)  الأعراف
+
+استعذ بالله من الشيطان الرجيم
+۞ وَاكْتُبْ لَنَا فِي هَٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ إِنَّا هُدْنَا إِلَيْكَ ۚ 
+قَالَ عَذَابِي أُصِيبُ بِهِ مَنْ أَشَاءُ ۖ 
+وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ ۚ 
+فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ الزَّكَاةَ وَالَّذِينَ هُم بِآيَاتِنَا يُؤْمِنُونَ (156) الأعراف
+استعذ بالله من الشيطان الرجيم
+ فَخَلَفَ مِن بَعْدِهِمْ خَلْفٌ وَرِثُوا الْكِتَابَ يَأْخُذُونَ عَرَضَ هَٰذَا الْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُ يَأْخُذُوهُ ۚ 
+أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَاقُ الْكِتَابِ أَن لَّا يَقُولُوا عَلَى اللَّهِ إِلَّا الْحَقَّ وَدَرَسُوا مَا فِيهِ ۗ 
+وَالدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ 
+أَفَلَا تَعْقِلُونَ (169)  الأعراف
+
+
+استعذ بالله من الشيطان الرجيم
+مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِي الْأَرْضِ ۚ 
+تُرِيدُونَ عَرَضَ الدُّنْيَا وَاللَّهُ يُرِيدُ الْآخِرَةَ ۗ 
+وَاللَّهُ عَزِيزٌ حَكِيمٌ (67)  الأنفال
+
+
+استعذ بالله من الشيطان الرجيم
+يَا أَيُّهَا الَّذِينَ آمَنُوا مَا لَكُمْ إِذَا قِيلَ لَكُمُ انفِرُوا فِي سَبِيلِ اللَّهِ اثَّاقَلْتُمْ إِلَى الْأَرْضِ ۚ 
+أَرَضِيتُم بِالْحَيَاةِ الدُّنْيَا مِنَ الْآخِرَةِ ۚ 
+فَمَا مَتَاعُ الْحَيَاةِ الدُّنْيَا فِي الْآخِرَةِ إِلَّا قَلِيلٌ (38)   التوبة
+
+
+استعذ بالله من الشيطان الرجيم
+ لَهُمُ الْبُشْرَىٰ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۚ 
+لَا تَبْدِيلَ لِكَلِمَاتِ اللَّهِ ۚ 
+ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ (64)  يونس
+
+استعذ بالله من الشيطان الرجيم
+ أُولَٰئِكَ الَّذِينَ لَيْسَ لَهُمْ فِي الْآخِرَةِ إِلَّا النَّارُ ۖ 
+وَحَبِطَ مَا صَنَعُوا فِيهَا وَبَاطِلٌ مَّا كَانُوا يَعْمَلُونَ (16)  هود
+
+
+استعذ بالله من الشيطان الرجيم
+لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْأَخْسَرُونَ (22) 
+إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَأَخْبَتُوا إِلَىٰ رَبِّهِمْ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ ۖ هُمْ فِيهَا خَالِدُونَ (23) هود
+
+
+استعذ بالله من الشيطان الرجيم
+ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّمَنْ خَافَ عَذَابَ الْآخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ النَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ (103)  هود
+
+استعذ بالله من الشيطان الرجيم 
+
+وداعيا الى الله بإذنه وسراجا منيرا
+  
+استعذ بالله من الشيطان الرجيم 
+تبارك اسم ربك ذي الجلال والاكرام 
+
+
+استعذ بالله من الشيطان الرجيم 
+ان ربك هو الخلاق العليم
+
+
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+Seek refuge in God from Satan, the accursed.
+This is a blessed Book which We have revealed to you, so that they may ponder its verses and that those of understanding may take heed.
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+Seek refuge in God from Satan, the accursed.
+And He creates What you do not know
+
+Seek refuge in God from Satan, the accursed.
+
+Indeed, your Lord is the Creator, the All-Knowing.
+
+Seek refuge in God from Satan, the accursed.
+
+And We have certainly given you seven of the oft-repeated verses and the Grand Qur'an.
+
+Seek refuge in God from Satan, the accursed.
+
+So proclaim what you are commanded and turn away from the polytheists.
+
+Seek refuge in God from Satan, the accursed.
+
+The Day they see the angels - no good tidings will there be that Day for the polytheists.
+
+Seek refuge in God from Satan, the accursed.
+
+It is nothing but a revelation revealed.
+
+Seek refuge in God from Satan, the accursed.
+
+So when you have decided, then rely upon God.
+
+Seek refuge in God from Satan, the accursed.
+
+And say, "My Lord, increase me in knowledge."
+
+Seek refuge in God from Satan, the accursed.
+
+And We will reward the doers of good.
+
+Seek refuge in God from Satan, the accursed.
+
+Blessed is the name of our Lord, the Most Compassionate, the Bestower, the Rich, the Praiseworthy, the Creator, the Originator, the Fashioner, the Mighty, the Giver of Honor, the Avenger, the Compeller, the Subduer, the Truth, the Manifest, Who guided us, raised us, and honored us by His grace. To Him belong the most beautiful names. And He is over all things competent.
+
+Seek refuge in God from Satan, the accursed.
+
+And the best outcome is for the righteous.
+
+Seek refuge in God from Satan, the accursed.
+
+And those who have wronged will soon know what a terrible end awaits them.
+
+Seek refuge in God from Satan, the accursed.
+
+Say, "If the home of the Hereafter with God is exclusively for you, to the exclusion of all other people, then wish for death, if you should be truthful." (2:94)
+
+Seek refuge in God from Satan, the accursed.
+
+And they followed what the devils had recited concerning the kingdom of Solomon.
+
+And Solomon did not disbelieve, but it was the devils who disbelieved. They teach people magic and that which was revealed to the two angels in Babylon, Harut and Marut.
+
+And they do not teach anyone until they say, “We are only a trial, so do not disbelieve.”
+
+And they learn from them that by which they cause separation between a man and his wife.
+But they do not harm anyone through it except by permission of Allah.
+And they learn that which harms them and does not benefit them. And they certainly knew that whoever purchased it would have no share in the Hereafter. And how wretched is that for which they sold themselves, if only they knew. (2:102)
+
+Seek refuge with Allah from the accursed Satan.
+
+And who is more unjust than one who prevents the name of Allah from being mentioned in His mosques and strives toward their destruction? It was not for them to enter them except in fear. For them in this world is disgrace, and for them in the Hereafter is disgrace. The Hereafter is a great punishment. (114) Al-Baqarah
+
+Seek refuge with Allah from the accursed Satan.
+
+And who would turn away from the religion of Abraham except one who has made himself a fool? And We chose him in this world.
+
+And indeed, in the Hereafter he will be among the righteous. (130) Al-Baqarah
+
+Seek refuge with Allah from the accursed Satan.
+
+And when you have completed your rites, remember Allah as you remember your forefathers or with a greater remembrance.
+
+And among the people are those who say, "Our Lord, give us..." In this world, and they will have no share in the Hereafter. (200) And among them are those who say, “Our Lord, give us good in this world and good in the Hereafter and protect us from the punishment of the Fire.” (201) Al-Baqarah
+
+Seek refuge with Allah from the accursed Satan.
+
+Indeed, those who exchange the covenant of Allah and their oaths for a small price will have no share in the Hereafter, nor will Allah speak to them or look at them on the Day of Resurrection, nor will He purify them. And they will have... A painful punishment (77) Al Imran
+
+Seek refuge with Allah from the accursed Satan.
+
+And whoever seeks a religion other than Islam, it will never be accepted of him, and in the Hereafter he will be among the losers. (85) Al Imran
+
+Seek refuge with Allah from the accursed Satan.
+
+And no soul can die except by permission of Allah, a decree determined.
+
+And whoever desires the reward of this world - We will give him thereof; and whoever desires the reward of the Hereafter - We will give him thereof.
+
+And We will reward the grateful. (145) Al Imran
+Seek refuge in God from Satan, the accursed.
+So God gave them the reward of this world and the excellent reward of the Hereafter.
+And God loves the doers of good. (148) Al Imran
+Seek refuge in God from Satan, the accursed.
+And God had certainly fulfilled His promise to you when you were killing them by His permission.
+Until when you lost courage and disputed about the matter and disobeyed after He had shown you that which you love.
+Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you away from them to test you. And He has already pardoned you. And Allah is full of bounty to the believers. (152) Al Imran
+Seek refuge in Allah from the accursed Satan. And let not those grieve you who hasten to disbelief. Indeed, they will never harm Allah at all. Allah intends that He should not assign them any share in the Hereafter, and for them is a great punishment. (176) Al Imran
+Seek refuge in Allah from the accursed Satan. Today it has been made lawful For you are the good things. And the food of those who were given the Scripture is lawful for you, and your food is lawful for them. And [lawful to you in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation, desiring chastity, not committing adultery, nor taking secret lovers. And whoever disbelieves in the faith - his work has become worthless, and he, in the Hereafter, will be among the losers. (5) Al-Ma'idah
+Seek refuge with Allah from Satan, the accursed.
+
+The punishment of those who wage war against Allah and His Messenger and strive to spread corruption in the land is that they should be killed or crucified, or have their hands and feet cut off on opposite sides, or be banished from the land.
+That is their disgrace in this world,
+And in the Hereafter they will have a great punishment. (33) Al-Ma'idah
+
+Seek refuge with Allah from Satan, the accursed.
+O Messenger, let not those grieve you They hasten to disbelief, those who say, “We believe,” with their mouths, but their hearts do not believe. And among the Jews are those who listen to falsehood, listening to other people who have not come to you. They distort words from their [proper] places. They say, “If you are given this, then take it; but if you are not given it, then beware.” And whoever Allah intends to put to trial - then He will not [cause him to] disbelief. You have no power over him from God.
+Those are the ones whose hearts God did not intend to purify.
+For them is disgrace in this world,
+And for them in the Hereafter is a great punishment. (41) Al-Ma'idah
+
+Seek refuge with God from the accursed Satan.
+
+And the life of this world is nothing but play and amusement.
+But the home of the Hereafter is better for those who fear God.
+Then will you not reason? (32) Al-An'am
+Seek refuge with God from the accursed Satan.
+
+And those who denied By Our signs and the meeting of the Hereafter, their deeds have become worthless.
+
+Are they to be recompensed except for what they used to do? (147) Al-A'raf
+
+Seek refuge with Allah from the accursed Satan.
+
+And ordain for us good in this world and in the Hereafter; indeed, we have turned to You in repentance.
+
+He said, "My punishment - I afflict with it whom I will, but My mercy encompasses all things."
+
+So I will ordain it for those who fear Allah and give zakah. And those who believe in Our verses (156) Al-A'raf
+Seek refuge with Allah from the accursed Satan.
+
+Then there came after them a generation who inherited the Scripture, taking the goods of this lower life and saying, "We will be forgiven." And if a similar gain should come to them, they would take it.
+Were they not bound by the covenant of the Scripture that they should not say about Allah except the truth, and they studied what was in it?
+
+And the Hereafter is better. For those who fear Allah.
+Do you not understand? (169) Al-A'raf
+
+Seek refuge with Allah from the accursed Satan.
+It is not for a prophet to have captives until he has thoroughly subdued the land.
+You desire the fleeting pleasures of this world, while Allah desires the Hereafter.
+And Allah is Exalted in Might and Wise. (67) Al-Anfal
+
+Seek refuge with Allah from the accursed Satan.
+O you who have believed, what is [the matter] with you that, when you are told to go forth in the cause of Allah, you cling heavily to the earth? Are you content with the life of this world rather than the Hereafter? But the enjoyment of worldly life compared to the Hereafter is but little. (9:38)
+
+Seek refuge with Allah from Satan, the accursed.
+
+For them are good tidings in this worldly life and in the Hereafter.
+There is no changing the words of Allah.
+That is the supreme triumph. (10:64)
+
+Seek refuge with Allah from Satan, the accursed.
+
+Those are the ones for whom there is nothing in the Hereafter but the Fire. And what they did therein will be in vain, and what they used to do was worthless. (16) Hud
+
+Seek refuge with Allah from the accursed Satan. Undoubtedly, in the Hereafter they will be the greatest losers. (22) Indeed, those who believe and do righteous deeds and humble themselves before their Lord - those are the companions of Paradise; they will abide therein eternally. (23) Hud
+
+Seek refuge with Allah from the accursed Satan. Indeed, in that is a sign for those who fear the punishment of the Hereafter. That is a Day when mankind will be gathered together, and that is a Day that will be witnessed. (103) Hud
+
+Seek refuge in God from the accursed Satan.
+
+And a caller to God by His permission and a shining lamp.🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+
+
+
+
+
 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A  BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
 
 قمرا منيرا بإذن ربنا 
