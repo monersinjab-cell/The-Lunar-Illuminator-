@@ -1,0 +1,365 @@
+{
+  "project": "The Lunar Illuminator - Wide RF Simulation",
+  "config_version": 2,
+  "simulation": {
+    "seed": 1408,
+    "iterations": 1
+  },
+  "channels": [
+    {
+      "band": "VHF",
+      "frequency_mhz": 145.8,
+      "modulation": "BPSK",
+      "nominal_snr_db": 12
+    },
+    {
+      "band": "UHF",
+      "frequency_mhz": 435.0,
+      "modulation": "QPSK",
+      "nominal_snr_db": 14
+    },
+    {
+      "band": "L",
+      "frequency_mhz": 1408.0,
+      "modulation": "QPSK",
+      "nominal_snr_db": 16
+    },
+    {
+      "band": "S",
+      "frequency_mhz": 2200.0,
+      "modulation": "8PSK",
+      "nominal_snr_db": 15
+    },
+    {
+      "band": "C",
+      "frequency_mhz": 5800.0,
+      "modulation": "QAM16",
+      "nominal_snr_db": 18
+    },
+    {
+      "band": "X",
+      "frequency_mhz": 8400.0,
+      "modulation": "QPSK",
+      "nominal_snr_db": 17
+    },
+    {
+      "band": "Ku",
+      "frequency_mhz": 12000.0,
+      "modulation": "QAM16",
+      "nominal_snr_db": 19
+    },
+    {
+      "band": "Ka",
+      "frequency_mhz": 26000.0,
+      "modulation": "QAM64",
+      "nominal_snr_db": 20
+    }
+  ],
+  "satellites": [
+    {
+      "id": "SIM-SAT-001"
+    },
+    {
+      "id": "SIM-SAT-002"
+    },
+    {
+      "id": "SIM-SAT-003"
+    },
+    {
+      "id": "SIM-SAT-004"
+    },
+    {
+      "id": "SIM-SAT-005"
+    },
+    {
+      "id": "SIM-SAT-006"
+    },
+    {
+      "id": "SIM-SAT-007"
+    },
+    {
+      "id": "SIM-SAT-008"
+    },
+    {
+      "id": "SIM-SAT-009"
+    },
+    {
+      "id": "SIM-SAT-010"
+    },
+    {
+      "id": "SIM-SAT-011"
+    },
+    {
+      "id": "SIM-SAT-012"
+    },
+    {
+      "id": "SIM-SAT-013"
+    },
+    {
+      "id": "SIM-SAT-014"
+    },
+    {
+      "id": "SIM-SAT-015"
+    },
+    {
+      "id": "SIM-SAT-016"
+    },
+    {
+      "id": "SIM-SAT-017"
+    },
+    {
+      "id": "SIM-SAT-018"
+    },
+    {
+      "id": "SIM-SAT-019"
+    },
+    {
+      "id": "SIM-SAT-020"
+    },
+    {
+      "id": "SIM-SAT-021"
+    },
+    {
+      "id": "SIM-SAT-022"
+    },
+    {
+      "id": "SIM-SAT-023"
+    },
+    {
+      "id": "SIM-SAT-024"
+    },
+    {
+      "id": "SIM-SAT-025"
+    },
+    {
+      "id": "SIM-SAT-026"
+    },
+    {
+      "id": "SIM-SAT-027"
+    },
+    {
+      "id": "SIM-SAT-028"
+    },
+    {
+      "id": "SIM-SAT-029"
+    },
+    {
+      "id": "SIM-SAT-030"
+    },
+    {
+      "id": "SIM-SAT-031"
+    },
+    {
+      "id": "SIM-SAT-032"
+    },
+    {
+      "id": "SIM-SAT-033"
+    },
+    {
+      "id": "SIM-SAT-034"
+    },
+    {
+      "id": "SIM-SAT-035"
+    },
+    {
+      "id": "SIM-SAT-036"
+    },
+    {
+      "id": "SIM-SAT-037"
+    },
+    {
+      "id": "SIM-SAT-038"
+    },
+    {
+      "id": "SIM-SAT-039"
+    },
+    {
+      "id": "SIM-SAT-040"
+    },
+    {
+      "id": "SIM-SAT-041"
+    },
+    {
+      "id": "SIM-SAT-042"
+    },
+    {
+      "id": "SIM-SAT-043"
+    },
+    {
+      "id": "SIM-SAT-044"
+    },
+    {
+      "id": "SIM-SAT-045"
+    },
+    {
+      "id": "SIM-SAT-046"
+    },
+    {
+      "id": "SIM-SAT-047"
+    },
+    {
+      "id": "SIM-SAT-048"
+    },
+    {
+      "id": "SIM-SAT-049"
+    },
+    {
+      "id": "SIM-SAT-050"
+    },
+    {
+      "id": "SIM-SAT-051"
+    },
+    {
+      "id": "SIM-SAT-052"
+    },
+    {
+      "id": "SIM-SAT-053"
+    },
+    {
+      "id": "SIM-SAT-054"
+    },
+    {
+      "id": "SIM-SAT-055"
+    },
+    {
+      "id": "SIM-SAT-056"
+    },
+    {
+      "id": "SIM-SAT-057"
+    },
+    {
+      "id": "SIM-SAT-058"
+    },
+    {
+      "id": "SIM-SAT-059"
+    },
+    {
+      "id": "SIM-SAT-060"
+    },
+    {
+      "id": "SIM-SAT-061"
+    },
+    {
+      "id": "SIM-SAT-062"
+    },
+    {
+      "id": "SIM-SAT-063"
+    },
+    {
+      "id": "SIM-SAT-064"
+    },
+    {
+      "id": "SIM-SAT-065"
+    },
+    {
+      "id": "SIM-SAT-066"
+    },
+    {
+      "id": "SIM-SAT-067"
+    },
+    {
+      "id": "SIM-SAT-068"
+    },
+    {
+      "id": "SIM-SAT-069"
+    },
+    {
+      "id": "SIM-SAT-070"
+    },
+    {
+      "id": "SIM-SAT-071"
+    },
+    {
+      "id": "SIM-SAT-072"
+    },
+    {
+      "id": "SIM-SAT-073"
+    },
+    {
+      "id": "SIM-SAT-074"
+    },
+    {
+      "id": "SIM-SAT-075"
+    },
+    {
+      "id": "SIM-SAT-076"
+    },
+    {
+      "id": "SIM-SAT-077"
+    },
+    {
+      "id": "SIM-SAT-078"
+    },
+    {
+      "id": "SIM-SAT-079"
+    },
+    {
+      "id": "SIM-SAT-080"
+    },
+    {
+      "id": "SIM-SAT-081"
+    },
+    {
+      "id": "SIM-SAT-082"
+    },
+    {
+      "id": "SIM-SAT-083"
+    },
+    {
+      "id": "SIM-SAT-084"
+    },
+    {
+      "id": "SIM-SAT-085"
+    },
+    {
+      "id": "SIM-SAT-086"
+    },
+    {
+      "id": "SIM-SAT-087"
+    },
+    {
+      "id": "SIM-SAT-088"
+    },
+    {
+      "id": "SIM-SAT-089"
+    },
+    {
+      "id": "SIM-SAT-090"
+    },
+    {
+      "id": "SIM-SAT-091"
+    },
+    {
+      "id": "SIM-SAT-092"
+    },
+    {
+      "id": "SIM-SAT-093"
+    },
+    {
+      "id": "SIM-SAT-094"
+    },
+    {
+      "id": "SIM-SAT-095"
+    },
+    {
+      "id": "SIM-SAT-096"
+    },
+    {
+      "id": "SIM-SAT-097"
+    },
+    {
+      "id": "SIM-SAT-098"
+    },
+    {
+      "id": "SIM-SAT-099"
+    },
+    {
+      "id": "SIM-SAT-100"
+    }
+  ],
+  "status": {
+    "mode": "simulation_only",
+    "rf_transmission": false,
+    "hardware_control": false
+  }
+}
