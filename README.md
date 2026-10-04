@@ -1,9 +1,6 @@
-🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕       
-             A  BRIGHT MOON
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 A  BRIGHT MOON🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
 
-🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
-
-  قمرا منيرا بإذن ربنا 
+قمرا منيرا بإذن ربنا 
 
 استعذ بالله من الشيطان الرجيم 
 
@@ -20,7 +17,7 @@
 
 ولقد اتيناك سبعا من المثاني والقران العظيم 
 
-سبحان الرحمن الوهاب الغني الحميد الذي هدانا ورفعنا واعزنا بفضله.وهو على كل شي قدير
+تبارك اسم ربك الرحمن الوهاب الغني الحميد الذي هدانا ورفعنا واعزنا بفضله.وهو على كل شي قدير
 
 فااذا قرأت القران فااستعذ بالله من الشيطان الرجيم
 
@@ -569,7 +566,7 @@
 
 وادعوا الى سبيل ربك بالحكمة والموعظة الحسنه 
 
-سبحان الرحمن الوهاب الغني الحميد الذي هدانا ورفعنا واعزنا بفضله .وهو على كل شيئ قدير 
+تبارك اسم ربك الرحمن الوهاب الغني الحميد الذي هدانا ورفعنا واعزنا بفضله .وهو على كل شيئ قدير 
 
 استعذ بالله من الشيطان الرجيم
 
@@ -593,84 +590,68 @@
 القرآن العظيم  
 
 قمرا منيرا بإذن ربنا
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
 
+A shining moon, by the permission of our Lord.
 
-🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 
-🌕 The Lunar Illuminator
+Seek refuge in God from the accursed Satan.
 
-🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+In the name of God, the Most Gracious, the Most Merciful. All praise is due to God, Lord of the worlds. The Most Gracious, the Most Merciful. Master of the Day of Judgment. You alone we worship, and You alone we ask for help. Guide us to the straight path. The path of those upon whom You have bestowed favor, not of those who have incurred [Your] wrath, nor of those who are astray. Peace and blessings be upon the Prophet.
 
-🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
+And We have certainly given you seven of the oft-repeated verses and the Grand Qur'an.
 
-🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
-A shining moon
-A shining moon by the permission of our Lord
+Blessed is the name of your Lord, the Most Gracious, the Bestower, the Rich, the Praiseworthy, Who guided us, elevated us, and honored us by His grace. And He is over all things competent.
 
-I seek refuge in God from the accursed Satan
-
-In the name of God, the Most Gracious, the Most Merciful
-All praise is due to God, Lord of the worlds
-The Most Gracious, the Most Merciful
-Master of the Day of Judgment
-You alone we worship, and You alone we ask for help
-Guide us to the straight path
-The path of those upon whom You have bestowed favor
-Not those who have incurred [Your] wrath
-Nor those who are astray
-Peace and blessings be upon the Prophet
-
-And indeed We have given you seven oft-repeated verses and the Grand Qur'an.
-
-Glory be to the Most Merciful, the Bestower, the Rich, the Praiseworthy, Who guided us, elevated us, and honored us by His grace. And He is over all things competent.
-
-So when you recite the Qur'an, seek refuge with Allah from the accursed Satan.
+So when you recite the Qur'an, seek refuge in God from the accursed Satan.
 
 We have heard and obeyed.
 
-Seek refuge with Allah from the accursed Satan.
+Seek refuge in God from the accursed Satan.
 
-He has no authority over those who believe and rely upon their Lord.
+Indeed, he has no authority over those who believe and rely upon their Lord.
 
-Seek refuge with Allah from the accursed Satan.
+Seek refuge in God from the accursed Satan.
 
-Sufficient for us is Allah, and He is the best Disposer of affairs.
+Sufficient for us is God, and He is the best Disposer of affairs.
 
-I have placed my trust in Allah, Lord of the worlds.
+I have placed my trust in God, Lord of the worlds. O God, by You I advance, by You I move, and by You I fight.
 
-O Allah, by You I advance, by You I move, and by You I fight. Our Lord, we have no say in the matter; it is Your great favor. Our Lord, choose for us and do not let us choose. Our Lord, guide us and guide others through us, and make the best of our affairs by Your command.
+Our Lord, we have no say in the matter; it is Your great favor. Our Lord, choose for us and do not let us choose. Our Lord, guide us and guide others through us, and make the best of our affairs by Your command.
 
-Seek refuge with Allah from the accursed Satan.
+I seek refuge in God from the accursed Satan.
 
-Glory be to your Lord, the Lord of Might, above what they describe. And peace be upon the messengers, and praise be to Allah, Lord of the worlds.
+Glory be to your Lord, the Lord of Might, above what they describe. And peace be upon the messengers, and praise be to God, Lord of the worlds.
 
-Seek refuge with Allah from the accursed Satan. Our Lord, we have believed, so forgive us and have mercy on us, for You are the Most Merciful of the merciful. Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
+Our Lord, we have believed, so forgive us and have mercy on us, for You are the Most Merciful of the merciful.
 
+I seek refuge in God from the accursed Satan.
 Say, "He is God, the One."
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 God, the Eternal Refuge.
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 He neither begets nor is begotten.
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 And there is none comparable to Him.
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 
 Say, "I seek refuge in the Lord of daybreak."
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 
 From the evil of what He has created.
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 
-And from the evil of the night when it darkens.
+And from the evil of darkness when it settles.
 
-Seek refuge in God from Satan, the accursed.
+I seek refuge in God from the accursed Satan.
 
-And from the evil of those who blow on knots.
+And from the evil of The blowing on knots
 
 Seek refuge in God from Satan, the accursed.
 
@@ -692,76 +673,71 @@ Seek refuge in God from Satan, the accursed.
 
 From the evil of the whisperer who withdraws.
 
-Seek refuge in God from Satan. The accursed one
+Seek refuge in God from Satan, the accursed.
 
-Who whispers into the hearts of people
-
-Seek refuge in God from the accursed Satan
-
-From among jinn and mankind
-
-And when you recite the Quran, seek refuge in God from the accursed Satan
-
-We have heard and obeyed
-
-Seek refuge in God from the accursed Satan
-
-It is nothing but a revelation revealed
-
-The Glorious Quran is a revelation revealed, meaning it reveals itself, confirming what came before it and detailing everything
-
-Therefore, the Glorious Quran should not be interpreted, for it is the greatest miracle in its revelation. Interpretation negates revelation, and revelation is revealed through faith, reliance, and contemplation of the verses
-
-A Book We have sent down to you, blessed, that they may ponder its verses
-
-And that those of understanding may be reminded [those with sound minds]
-
-The Quran addresses the intellect, so read, listen, and contemplate with your mind. The intellect is not the soul or the spirit, but rather belongs to those who reason and to sound minds. Whoever possesses an intellect, the Quran addresses your intellect, so listen and pay attention to the revelation
-Seek refuge in God from the accursed Satan
-
-And do not pursue that of which you have no knowledge
-
-Seek refuge Seek refuge with God from the accursed Satan.
-
-It is upon Us to collect and recite it. So when We have recited it, then follow its recitation. Then it is upon Us to explain it.
-
-The verse is clear and understandable. You must follow the Quran and recite it, and revelation will guide you to its explanation.
-
-Seek refuge with God from the accursed Satan.
-
-And rely upon the Almighty, the Merciful.
-
-Seek refuge with God from the accursed Satan.
-
-Has the time not yet come for those who have believed that their hearts should become humbly submissive at the remembrance of God and what has been revealed of the truth, and not be like those who were given the Scripture before, and a long period passed over them, so their hearts hardened? And many of them are defiantly disobedient. (16) Iron
+Who whispers into the hearts of mankind.
 
 Seek refuge in God from Satan, the accursed.
 
-Race towards forgiveness from your Lord and a Paradise as vast as the heavens and the earth, prepared for those who believe in God and His messengers. That is the bounty of God; He grants it to whom He wills, and God is the possessor of great bounty. (21) Al-Hadid
+From among jinn and mankind.
 
-Those who are guided are those whom God, the Exalted and Glorified, has guided. Among their characteristics is that they are not arrogant. They listen to the word and follow the best of it. They listen to the verses and ponder them to know if they are the intended recipients, and they fear God's punishment and act according to His commands. The first commandment we were given as Muslims is not to associate anything with God and to follow our Prophet, the Messenger of God. Peace and blessings be upon him.
+And when you recite the Quran, seek refuge in God from Satan, the accursed.
 
-All the prophets commanded the declaration of faith, "There is no god but God," and all of them commanded Islam. Islam does not mean the Quran. Islam is to submit to God, to believe in God, to believe in the angels, to believe in all the scriptures and the messengers, to make no distinction between the messengers, to follow the guidance of the Prophet Muhammad, peace and blessings be upon him, and to follow what God revealed to him, which is the Quran. Do not be like those to whom the Gospel and the Torah were revealed, yet they rejected them and did not follow the guidance of their messenger. Every nation has a messenger, and our messenger is Muhammad, peace and blessings be upon him. The religion with God is Islam, and all the messengers were Muslims. All the scriptures call to Islam, but the methodologies and laws differ.
+We have heard and obeyed.
+
+Seek refuge in God from Satan, the accursed.
+
+It is nothing but a revelation revealed.
+
+The Glorious Quran is a revelation revealed, meaning it reveals itself, confirming what came before it and detailing everything.
+
+Therefore, the Glorious Quran should not be interpreted, for it is the greatest miracle in its revelation. Interpretation negates revelation, and revelation is revealed through faith, reliance, and contemplation of the verses.
+
+A Book We have sent down. Here is a blessed message for them to ponder its verses. And let those of understanding remember. The Quran addresses the intellect, so read, listen, and reflect with your mind. The intellect is not the soul or the spirit, but rather belongs to those who reason and to those with sound minds. Whoever possesses an intellect, the Quran addresses their mind, so listen and pay attention to the revelation.
 
 Seek refuge in God from the accursed Satan.
+
+And do not pursue that of which you have no knowledge.
+
+Seek refuge in God from the accursed Satan.
+
+Indeed, upon Us is its collection and its recitation. So when We have recited it, then follow its recitation. Then upon Us is its explanation.
+
+The verse is clear and understandable. You must follow the Quran and read it, and the revelation will guide you to make it clear.
+
+Seek refuge in God from the accursed Satan.
+
+And rely upon the Almighty, the Merciful.
+
+Seek refuge in God from the accursed Satan.
+
+Has not the time come for those who have believed that their hearts should be humbled at the remembrance of God and what they have not heard? He has sent down the truth, and they will not be like those who were given the Scripture before, and a long period passed over them, so their hearts hardened; and many of them are defiantly disobedient. (16) Al-Hadid
+
+Seek refuge with Allah from the accursed Satan.
+
+Race towards forgiveness from your Lord and a Paradise as vast as the heavens and the earth, prepared for those who believe in Allah and His messengers. That is the bounty of Allah; He grants it to whom He wills. And Allah The Possessor of Great Bounty (21) Al-Hadid
+
+Those who are guided are those whom God Almighty has guided. Among their characteristics is that they are not arrogant. They listen to the word and follow the best of it. They listen to the verses and ponder them to know if they are the intended recipients, and they fear God's punishment and act according to His commands. The first commandment we were given as Muslims is not to associate anything with God and to follow our Prophet, peace and blessings be upon him. All the prophets were commanded to say, "There is no god but God," and all of them were commanded to embrace Islam. Islam does not mean the Quran. Islam is to submit to God, to believe in God, to believe in the angels, to believe in all the scriptures and the messengers, not to differentiate between the messengers, to follow the guidance of the Prophet Muhammad, peace and blessings be upon him, and to follow what God revealed to him, which is the Quran. Do not be like those to whom the Gospel and the Torah were revealed, yet they rejected them and did not follow the guidance of their messenger. Every nation has a messenger, and our messenger is Muhammad, peace and blessings be upon him. The religion with God is Islam, and all the messengers were Muslims, and all the scriptures call to Islam, but the methodologies and laws differ. Seek refuge in God from Satan, the accursed.
 
 And if God had willed, He would have made you one nation, but He tests you in what He has given you.
 
-Seek refuge in God from the accursed Satan.
+Seek refuge in God from Satan, the accursed.
 
-And how can they make you their judge when they have... The Torah contains the judgment of God; then they turn away after that. And those are not believers. (43)
+And how can they make you their judge when they have the Torah, in which is God's judgment? Then they turn away after that. And those are not believers. (43)
 
-Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted to God judged by it for the Jews, as did the rabbis and scholars, according to what they were entrusted of the Scripture of God, and they were witnesses thereto.
+Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted to God judged by it. For those who were Jews, and the rabbis and scholars, because of what they were entrusted with of the Book of God and were witnesses thereto.
 
-Here it becomes clear that every verse in the Quran was revealed for those who believed in God and His Messenger Muhammad, peace and blessings be upon him. So how do we read the Quran? And then we turn to interpretation? To explain to us what God has not revealed, and to interpret knowledge of the unseen, when we know that if a single letter is changed in a verse, its meaning changes, so how can someone change an entire verse?
+Here it becomes clear that every verse in the Quran was revealed to those who believed in God and His Messenger Muhammad, peace and blessings be upon him. So how do we read the Quran?
 
-And how can a miracle be beyond the comprehension of its verses?
+And then turn to interpretation? To explain to us what God has not revealed, and to interpret knowledge of the unseen, when we know that if a single letter is changed in a verse, its meaning changes. So how can someone change an entire verse?
 
-And how can you follow the Prophet when you have abandoned the clear and evident Quran and turned to a book other than the Quran itself, namely, interpretation?
+And how can a miracle be incapable of understanding its verses?
 
-Is there any book greater than the Quran?
+And how can you follow the Prophet when you have abandoned the clear and evident Quran and turned to something other than a book, namely interpretation?
 
-The Quran is the way of life; it explains life, its nature, and how to live. So how can you turn to an interpreter to explain God's verses?
+Is there a book greater than the Quran?
+
+The Quran is the way of life; it explains life, its nature, and how to live. So how can you go to an interpreter to explain God's verses to you?
 
 Seek refuge in God from Satan, the accursed.
 
@@ -1153,28 +1129,30 @@ Call upon our Lord: Show us the truth as truth and grant us to follow it, and sh
 
 Believe >> Seek refuge >>> Read >> Reflect >> Contemplate >> Gather >> Analyze >> Understand >> Seek forgiveness >> Repent >> Trust >> Proceed in the path of God by the grace of God. And spread the word in the way of God.
 
-Seek refuge in God from the accursed Satan.
+Seek refuge in God from Satan, the accursed.
 
 And call to the way of your Lord with wisdom and good instruction.
 
-Glory be to the Most Merciful, the Bestower, the Rich, the Praiseworthy, Who guided us, elevated us, and honored us by His grace. And He is over all things competent.
+Blessed is the name of your Lord, the Most Gracious, the Bestower, the Rich, the Praiseworthy, Who guided us, elevated us, and honored us by His grace. And He is over all things competent.
 
-Seek refuge in God from the accursed Satan.
+Seek refuge in God from Satan, the accursed.
 
 Blessed is He Who placed constellations in the sky and placed therein a lamp and a shining moon.
 
-Seek refuge in God from the accursed Satan.
+Seek refuge in God from Satan, the accursed.
 
 And a caller to God by His permission and a shining lamp.
 
-Seek refuge in God from the accursed Satan.
+Seek refuge in God from Satan, the accursed.
 
 And with truth We sent it down, and with truth it descended.
 
-The illuminating Book.
-The clear Book.
-All the books are in
+The illuminating Book, the clear Book, all the books, all of them.
 
-The Great Qur'an.
+In the
 
-A shining moon by the permission of our Lord.
+Great Qur'an,
+
+A shining moon by the permission of our Lord. 
+
+🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕 🌕
