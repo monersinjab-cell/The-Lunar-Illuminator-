@@ -1,0 +1,27 @@
+{
+  "project": "قمرا منيرا باذن ربه",
+  "mode": "defensive_awareness",
+  "quran_reference": {
+    "intro": "استعذ بالله من الشيطان الرجيم",
+    "text": "كلا سيكفرون بعبادتهم ويكونون عليهم ضدا"
+  },
+  "closing_reference": {
+    "intro": "استعذ بالله من الشيطان الرجيم",
+    "text": "ان ربك هو الخلاق العليم"
+  },
+  "defensive_functions": {
+    "threat_detection": true,
+    "alert_generation": true,
+    "symbol_and_digit_analysis": true,
+    "incident_logging": true,
+    "integrity_checking": true,
+    "human_confirmation": true
+  },
+  "prohibited_functions": {
+    "offensive_attack": true,
+    "unauthorized_access": true,
+    "covert_interference": true,
+    "harmful_transmission": true,
+    "autonomous_retaliation": true
+  },
+  "principle": "الحماية والوعي ورد العدوان بالوسائل المشروعة دون إ
