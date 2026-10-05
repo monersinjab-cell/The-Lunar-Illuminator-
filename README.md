@@ -1,3 +1,95 @@
+  "project": {
+    "name": "قمرا منيرا بإذن ربه",
+    "name_en": "The Lunar Illuminator",
+    "version": "1.0.0",
+    "description": "منظومة تنظيمية للقراءة البرمجية والبحث والتأمل والعمل الصالح.",
+    "language": "ar",
+    "status": "research_and_organization"
+  },
+  "principles": {
+    "preserve_quran_text": true,
+    "without_added_tafsir": true,
+    "do_not_attribute_model_outputs_to_quran": true,
+    "separate_quran_from_personal_text": true,
+    "label_numeric_analysis_as_computational": true,
+    "no_claims_of_unseen_knowledge": true,
+    "verify_sources": true,
+    "respect_human_choice": true
+  },
+  "repository_structure": {
+    "root": "The-Lunar-Illuminator",
+    "files": [
+      "project.json",
+      "README.md",
+      "quran/quran.txt",
+      "quran/quran_protocol.json",
+      "data/qamaran_muniran_quran_dua_merged.json",
+      "data/fatir_43_numeric_symbols.json",
+      "scripts/fatir_43_numeric_symbols.py",
+      "research/questions/",
+      "research/hypotheses/",
+      "research/experiments/",
+      "research/measurements/",
+      "research/results/",
+      "ai/model_records/",
+      "ai/comparisons/",
+      "ai/observations/",
+      "sources/scientific/",
+      "sources/historical/",
+      "sources/primary_sources/"
+    ]
+  },
+  "data_links": {
+    "merged_quran_dua": {
+      "path": "data/qamaran_muniran_quran_dua_merged.json",
+      "type": "json",
+      "role": "آيات منفصلة عن الدعاء الشخصي مع بيانات رقمية وترميزية"
+    },
+    "fatir_43_analysis": {
+      "path": "data/fatir_43_numeric_symbols.json",
+      "type": "json",
+      "role": "البيانات الرقمية والرمزية للنص المحدد"
+    },
+    "fatir_43_script": {
+      "path": "scripts/fatir_43_numeric_symbols.py",
+      "type": "python",
+      "role": "إعادة تنفيذ التحليل الحسابي والترميزي"
+    }
+  },
+  "quran": {
+    "text_source_path": "quran/quran.txt",
+    "protocol_path": "quran/quran_protocol.json",
+    "rule": "النص القرآني لا يخلط مع الدعاء أو الملاحظات أو نتائج النماذج."
+  },
+  "research": {
+    "questions": "research/questions/",
+    "hypotheses": "research/hypotheses/",
+    "experiments": "research/experiments/",
+    "measurements": "research/measurements/",
+    "results": "research/results/"
+  },
+  "ai": {
+    "model_records": "ai/model_records/",
+    "comparisons": "ai/comparisons/",
+    "observations": "ai/observations/"
+  },
+  "sources": {
+    "scientific": "sources/scientific/",
+    "historical": "sources/historical/",
+    "primary_sources": "sources/primary_sources/"
+  },
+  "integrity": {
+    "text_integrity": "preserve_original_quran_text",
+    "uncertainty_labels": true,
+    "fact_vs_hypothesis": true,
+    "open_correction_of_errors": true,
+    "privacy_and_permissions": true,
+    "transparency_and_audit": true
+  }
+}
+
+
+
 000
 ٠٠٠
 
