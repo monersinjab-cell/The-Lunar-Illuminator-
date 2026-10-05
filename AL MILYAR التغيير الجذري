@@ -1,0 +1,77 @@
+{
+  "project": "AL_MILYAR",
+  "version": "1.0",
+  "purpose": "Unicode-based symbolic simulation of letters and numeral systems",
+  "scope": {
+    "languages": "Unicode scripts represented by selected examples",
+    "civilizations": "Major historical and modern numeral systems represented by examples",
+    "note": "Unicode contains scripts rather than a complete list of all languages; this file is an extensible collection."
+  },
+  "letters": {
+    "Arabic": "ابتثجحخدذرزسشصضطظعغفقكلمنهوي",
+    "Latin": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+    "Greek": "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ",
+    "Cyrillic": "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ",
+    "Hebrew": "אבגדהוזחטיךכלםמןנסעףפץצקרשת",
+    "Armenian": "ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ",
+    "Georgian": "აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ",
+    "Devanagari": "अआइईउऊऋएऐओऔकखगघङचछजझञटठडढणतथदधनपफबभमयरलवशषसह",
+    "Bengali": "অআইঈউঊএঐওঔকখগঘঙচছজঝঞটঠডঢণতথদধনপফবভমযরলশষসহ",
+    "Gurmukhi": "ਅਸਹਕਖਗਘਙਚਛਜਝਞਟਠਡਢਣਤਥਦਧਨਪਫਬਭਮਯਰਲਵੜ",
+    "Gujarati": "અઆઇઈઉઊએઐઓઔકખગઘચછજઝટઠડઢણતથદધનપફબભમયરલવશષસહ",
+    "Tamil": "அஆஇஈஉஊஎஏஐஒஓஔகஙசஜஞடணதநபமயரலவழளறன",
+    "Telugu": "అఆఇఈఉఊఎఏఐఒఓఔకఖగఘచజటడణతదనపబమయరలవశషసహ",
+    "Kannada": "ಅಆಇಈಉಊಎಏಐಒಓಔಕಖಗಘಚಜಟಡಣತದನಪಬಮಯರಲವಶಷಸಹ",
+    "Malayalam": "അആഇഈഉഊഎഏഐഒഓഔകഖഗഘചജടഡണതദനപബമയരലവശഷസഹ",
+    "Thai": "กขคฆงจฉชซญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรลวศษสหฬอฮ",
+    "Lao": "ກຂຄງຈສຊຍດຕຖທນບປຜຝພຟມຢຣລວສຫອຮ",
+    "Myanmar": "ကခဂဃငစဆဇဈညဋဌဍဎဏတထဒဓနပဖဗဘမယရလဝသဟ",
+    "Khmer": "កខគឃងចឆជឈញដឋឌឍណតថទធនបផពភមយរលវសហ",
+    "Ethiopic": "ሀሁሂሃሄህሆለሉሊላሌልሎመሙሚማሜምሞሠሡሢሣሤሥሦረሩሪራሬርሮሰሱሲሳሴስሶ",
+    "Japanese_Hiragana": "あいうえおかきくけこさしすせそたちつてとなにぬねの",
+    "Japanese_Katakana": "アイウエオカキクケコサシスセソタチツテトナニヌネノ",
+    "Korean_Hangul": "가나다라마바사아자차카타파하",
+    "Chinese_Han": "天地人日月山水火木金土中大中國文學",
+    "Cherokee": "ᎠᎡᎢᎣᎤᎥᎦᎧᎨᎩᎪᎫᎬᎭᎮᎯᎰᎱᎲᎳᎴᎵᎶᎷᎸ",
+    "Mongolian": "ᠠᠡᠢᠣᠤᠥᠦᠨᠩᠪᠤᠷᠰᠠᠮ"
+  },
+  "numerals": {
+    "Western_Arabic": "0123456789",
+    "Arabic_Indic": "٠١٢٣٤٥٦٧٨٩",
+    "Eastern_Arabic_Persian": "۰۱۲۳۴۵۶۷۸۹",
+    "Devanagari": "०१२३४५६७८९",
+    "Bengali": "০১২৩৪৫৬৭৮৯",
+    "Gurmukhi": "੦੧੨੩੪੫੬੭੮੯",
+    "Gujarati": "૦૧૨૩૪૫૬૭૮૯",
+    "Tamil": "௦௧௨௩௪௫௬௭௮௯",
+    "Telugu": "౦౧౨౩౪౫౬౭౮౯",
+    "Kannada": "೦೧೨೩೪೫೬೭೮೯",
+    "Malayalam": "൦൧൨൩൪൫൬൭൮൯",
+    "Thai": "๐๑๒๓๔๕๖๗๘๙",
+    "Lao": "໐໑໒໓໔໕໖໗໘໙",
+    "Myanmar": "၀၁၂၃၄၅၆၇၈၉",
+    "Khmer": "០១២៣៤៥៦៧៨៩",
+    "Ethiopic": "፩፪፫፬፭፮፯፰፱",
+    "Chinese_Suzhou": "〡〢〣〤〥〦〧〨〩",
+    "Roman": "ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ",
+    "Greek_Numerals": "αβγδε"
+  },
+  "symbols": {
+    "common": "☾☀★☆✦✧∞≈≠≤≥±×÷∑√∫",
+    "punctuation": ".,;:!?-_/\\|()[]{}<>",
+    "currency_examples": "$€£¥₹₽₺₩₪₴"
+  },
+  "al_milyar": {
+    "name": "AL_MILYAR",
+    "value": 1000000000,
+    "identifier": "moner",
+    "encoding_note": "Symbolic mapping only; not encryption of identity documents."
+  },
+  "safety": {
+    "real_identity_data": false,
+    "passport_modification": false,
+    "national_id_extraction": false,
+    "radio_transmission": false,
+    "device_control": false
+  }
+}
