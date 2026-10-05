@@ -1,0 +1,39 @@
+المرجع: فاطر 43 (35:43)
+النص: ولا يحيق المكر السيئ إلا بأهله
+عدد الكلمات: 6
+عدد الحروف: 25
+قيمة أبجد الكلية: 632
+
+ولا | حروف: 3 | أبجد: 37
+  {'char': 'و', 'unicode': 'U+0648', 'decimal': 1608, 'hex': '648', 'binary': '0000011001001000', 'name': 'ARABIC LETTER WAW', 'abjad': 6}
+  {'char': 'ل', 'unicode': 'U+0644', 'decimal': 1604, 'hex': '644', 'binary': '0000011001000100', 'name': 'ARABIC LETTER LAM', 'abjad': 30}
+  {'char': 'ا', 'unicode': 'U+0627', 'decimal': 1575, 'hex': '627', 'binary': '0000011000100111', 'name': 'ARABIC LETTER ALEF', 'abjad': 1}
+يحيق | حروف: 4 | أبجد: 128
+  {'char': 'ي', 'unicode': 'U+064A', 'decimal': 1610, 'hex': '64A', 'binary': '0000011001001010', 'name': 'ARABIC LETTER YEH', 'abjad': 10}
+  {'char': 'ح', 'unicode': 'U+062D', 'decimal': 1581, 'hex': '62D', 'binary': '0000011000101101', 'name': 'ARABIC LETTER HAH', 'abjad': 8}
+  {'char': 'ي', 'unicode': 'U+064A', 'decimal': 1610, 'hex': '64A', 'binary': '0000011001001010', 'name': 'ARABIC LETTER YEH', 'abjad': 10}
+  {'char': 'ق', 'unicode': 'U+0642', 'decimal': 1602, 'hex': '642', 'binary': '0000011001000010', 'name': 'ARABIC LETTER QAF', 'abjad': 100}
+المكر | حروف: 5 | أبجد: 291
+  {'char': 'ا', 'unicode': 'U+0627', 'decimal': 1575, 'hex': '627', 'binary': '0000011000100111', 'name': 'ARABIC LETTER ALEF', 'abjad': 1}
+  {'char': 'ل', 'unicode': 'U+0644', 'decimal': 1604, 'hex': '644', 'binary': '0000011001000100', 'name': 'ARABIC LETTER LAM', 'abjad': 30}
+  {'char': 'م', 'unicode': 'U+0645', 'decimal': 1605, 'hex': '645', 'binary': '0000011001000101', 'name': 'ARABIC LETTER MEEM', 'abjad': 40}
+  {'char': 'ك', 'unicode': 'U+0643', 'decimal': 1603, 'hex': '643', 'binary': '0000011001000011', 'name': 'ARABIC LETTER KAF', 'abjad': 20}
+  {'char': 'ر', 'unicode': 'U+0631', 'decimal': 1585, 'hex': '631', 'binary': '0000011000110001', 'name': 'ARABIC LETTER REH', 'abjad': 200}
+السيئ | حروف: 5 | أبجد: 101
+  {'char': 'ا', 'unicode': 'U+0627', 'decimal': 1575, 'hex': '627', 'binary': '0000011000100111', 'name': 'ARABIC LETTER ALEF', 'abjad': 1}
+  {'char': 'ل', 'unicode': 'U+0644', 'decimal': 1604, 'hex': '644', 'binary': '0000011001000100', 'name': 'ARABIC LETTER LAM', 'abjad': 30}
+  {'char': 'س', 'unicode': 'U+0633', 'decimal': 1587, 'hex': '633', 'binary': '0000011000110011', 'name': 'ARABIC LETTER SEEN', 'abjad': 60}
+  {'char': 'ي', 'unicode': 'U+064A', 'decimal': 1610, 'hex': '64A', 'binary': '0000011001001010', 'name': 'ARABIC LETTER YEH', 'abjad': 10}
+  {'char': 'ئ', 'unicode': 'U+0626', 'decimal': 1574, 'hex': '626', 'binary': '0000011000100110', 'name': 'ARABIC LETTER YEH WITH HAMZA ABOVE', 'abjad': 0}
+إلا | حروف: 3 | أبجد: 32
+  {'char': 'إ', 'unicode': 'U+0625', 'decimal': 1573, 'hex': '625', 'binary': '0000011000100101', 'name': 'ARABIC LETTER ALEF WITH HAMZA BELOW', 'abjad': 1}
+  {'char': 'ل', 'unicode': 'U+0644', 'decimal': 1604, 'hex': '644', 'binary': '0000011001000100', 'name': 'ARABIC LETTER LAM', 'abjad': 30}
+  {'char': 'ا', 'unicode': 'U+0627', 'decimal': 1575, 'hex': '627', 'binary': '0000011000100111', 'name': 'ARABIC LETTER ALEF', 'abjad': 1}
+بأهله | حروف: 5 | أبجد: 43
+  {'char': 'ب', 'unicode': 'U+0628', 'decimal': 1576, 'hex': '628', 'binary': '0000011000101000', 'name': 'ARABIC LETTER BEH', 'abjad': 2}
+  {'char': 'أ', 'unicode': 'U+0623', 'decimal': 1571, 'hex': '623', 'binary': '0000011000100011', 'name': 'ARABIC LETTER ALEF WITH HAMZA ABOVE', 'abjad': 1}
+  {'char': 'ه', 'unicode': 'U+0647', 'decimal': 1607, 'hex': '647', 'binary': '0000011001000111', 'name': 'ARABIC LETTER HEH', 'abjad': 5}
+  {'char': 'ل', 'unicode': 'U+0644', 'decimal': 1604, 'hex': '644', 'binary': '0000011001000100', 'name': 'ARABIC LETTER LAM', 'abjad': 30}
+  {'char': 'ه', 'unicode': 'U+0647', 'decimal': 1607, 'hex': '647', 'binary': '0000011001000111', 'name': 'ARABIC LETTER HEH', 'abjad': 5}
+
+[Program finished]
