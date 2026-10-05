@@ -1,0 +1,223 @@
+☾✦ AL MILYAR — منير ✦☾
+
+
+استعذ بالله من الشيطان الرجيم
+
+
+يا يحيى خذ الكتاب بقوة واتيناه الحكم صبيا
+
+
+وحنانا من لدنا وزكاة
+
+
+✦ العنوان المضيء ✦
+
+
+AL MILYAR — MONER
+عنوان ساطع للمعرفة والعمل الصالح
+
+
+
+# -*- coding: utf-8 -*-
+"""تحليل رقمي ورمزي للنص:
+ولا يحيق المكر السيئ إلا بأهله
+المرجع القرآني: فاطر 43 (35:43)
+
+ملاحظة: الأرقام الناتجة تمثيلات حسابية/ترميزية فقط،
+ولا تثبت دلالة غيبية أو إعجازا عدديا.
+"""
+
+import unicodedata
+
+TEXT = 'ولا يحيق المكر السيئ إلا بأهله'
+WORDS = TEXT.split()
+
+ABJAD = {'ا': 1, 'أ': 1, 'إ': 1, 'آ': 1, 'ٱ': 1, 'ب': 2, 'ج': 3, 'د': 4, 'ه': 5, 'و': 6, 'ز': 7, 'ح': 8, 'ط': 9, 'ي': 10, 'ى': 10, 'ك': 20, 'ل': 30, 'م': 40, 'ن': 50, 'س': 60, 'ع': 70, 'ف': 80, 'ص': 90, 'ق': 100, 'ر': 200, 'ش': 300, 'ت': 400, 'ث': 500, 'خ': 600, 'ذ': 700, 'ض': 800, 'ظ': 900, 'غ': 1000}
+
+def clean_letters(s):
+    return "".join(ch for ch in s if ch.isalpha())
+
+def analyze_word(word):
+    letters = clean_letters(word)
+    chars = []
+    total = 0
+    for ch in letters:
+        value = ABJAD.get(ch, 0)
+        total += value
+        chars.append({
+            "char": ch,
+            "unicode": f"U+{ord(ch):04X}",
+            "decimal": ord(ch),
+            "hex": f"{ord(ch):02X}",
+            "binary": format(ord(ch), "016b"),
+            "name": unicodedata.name(ch, "UNKNOWN"),
+            "abjad": value,
+        })
+    return {
+        "word": word,
+        "letters": len(letters),
+        "abjad_total": total,
+        "characters": chars,
+    }
+
+def main():
+    letters = clean_letters(TEXT)
+    print("المرجع: فاطر 43 (35:43)")
+    print("النص:", TEXT)
+    print("عدد الكلمات:", len(WORDS))
+    print("عدد الحروف:", len(letters))
+    print("قيمة أبجد الكلية:", sum(ABJAD.get(ch, 0) for ch in letters))
+    print()
+    for item in map(analyze_word, WORDS):
+        print(item["word"], "| حروف:", item["letters"], "| أبجد:", item["abjad_total"])
+        for c in item["characters"]:
+            print(" ", c)
+
+if __name__ == "__main__":
+    main()
+
+☾✦ AL MILYAR — منير ✦☾
+
+
+استعذ بالله من الشيطان الرجيم
+
+
+يا يحيى خذ الكتاب بقوة واتيناه الحكم صبيا
+
+
+وحنانا من لدنا وزكاة
+
+
+✦ العنوان المضيء ✦
+
+
+AL MILYAR — MONER
+عنوان ساطع للمعرفة والعمل الصالح
+
+
+
+
+{
+  "project": "AL_MILYAR",
+  "module": "AL_MUNTAQIM",
+  "name": "المنتقم",
+  "mode": "defensive_simulation",
+
+  "pipeline": [
+    "INPUT",
+    "NORMALIZE",
+    "ANALYZE",
+    "VERIFY",
+    "ALERT",
+    "LOG"
+  ],
+
+  "power": {
+    "symbolic": true,
+    "physical_force": false,
+    "weapon": false,
+    "attack": false,
+    "harm": false
+  },
+
+  "response": {
+    "automatic_retaliation": false,
+    "automatic_attack": false,
+    "alert": true,
+    "evidence_log": true,
+    "human_review": true
+  },
+
+  "signals": {
+    "synthetic_numbers": true,
+    "synthetic_symbols": true,
+    "frequency_simulation": true,
+    "real_frequency_control": false,
+    "real_broadcast": false
+  },
+
+  "identity": {
+    "identifier": "moner",
+    "real_identity_extraction": false
+  }
+}☾✦ AL MILYAR — منير ✦☾
+
+
+استعذ بالله من الشيطان الرجيم
+
+
+يا يحيى خذ الكتاب بقوة واتيناه الحكم صبيا
+
+
+وحنانا من لدنا وزكاة
+
+
+✦ العنوان المضيء ✦
+
+
+AL MILYAR — MONER
+عنوان ساطع للمعرفة والعمل الصالح
+
+
+
+#!/usr/bin/env python3
+import json
+import hashlib
+from pathlib import Path
+
+JSON_FILE = Path(__file__).with_name("AL_MILYAR_UNICODE.json")
+
+def load_data():
+    with JSON_FILE.open("r", encoding="utf-8") as f:
+        return json.load(f)
+
+def sha256_text(text):
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+def build_index(data):
+    index = {}
+    for script, chars in data["letters"].items():
+        index[script] = {
+            "count": len(chars),
+            "characters": list(chars),
+            "codepoints": [f"U+{ord(c):04X}" for c in chars]
+        }
+    return index
+
+def main():
+    data = load_data()
+    index = build_index(data)
+
+    print("=" * 60)
+    print("AL_MILYAR — Unicode Symbolic Collection")
+    print("=" * 60)
+    print("Identifier:", data["al_milyar"]["identifier"])
+    print("Value:", data["al_milyar"]["value"])
+    print()
+
+    print("LETTER SCRIPTS:", len(data["letters"]))
+    for name, info in index.items():
+        print(f"{name}: {info['count']} symbols")
+
+    print("\nNUMERAL SYSTEMS:", len(data["numerals"]))
+    for name, chars in data["numerals"].items():
+        print(f"{name}: {chars}")
+
+    print("\nSYMBOLS:")
+    for name, chars in data["symbols"].items():
+        print(f"{name}: {chars}")
+
+    serialized = json.dumps(
+        data, ensure_ascii=False, sort_keys=True
+    )
+    print("\nINTEGRITY SHA-256:")
+    print(sha256_text(serialized))
+
+    output = Path(__file__).with_name("AL_MILYAR_INDEX.json")
+    with output.open("w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+
+    print("\nCreated:", output.name)
+
+if __name__ == "__main__":
+    main()
