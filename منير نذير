@@ -1,0 +1,62 @@
+{
+  "project": "قمرا منيرا باذن ربه",
+  "type": "safe_digital_simulation",
+  "version": "1.0.0",
+  "purpose": "محاكاة رقمية للمعرفة والتأمل والسلام والعمل الصالح",
+  "principles": {
+    "human_choice": true,
+    "peaceful_use": true,
+    "no_forced_control": true,
+    "no_unauthorized_access": true,
+    "no_real_world_interference": true,
+    "no_surveillance": true,
+    "no_extraction_from_devices": true,
+    "no_claim_of_revelation": true
+  },
+  "scope": {
+    "earth": "نموذج رمزي للأرض",
+    "sky": "نموذج رمزي للسماء",
+    "numbers": "بيانات وأرقام اصطناعية للمحاكاة فقط",
+    "symbols": "رموز رقمية غير مرتبطة بأجهزة حقيقية",
+    "languages": [
+      "ar",
+      "en",
+      "fr",
+      "zh",
+      "es",
+      "de",
+      "hi"
+    ],
+    "countries": "تمثيل محايد لجميع الدول دون إلزام أو تحكم"
+  },
+  "quran_references": [
+    {
+      "text": "عسى ربكم ان يرحمكم وان عدتم عدنا",
+      "note": "نص قرآني محفوظ كمرجع، وليس أمرًا برمجيًا"
+    },
+    {
+      "text": "فان جنحوا للسلم فاجنح لها",
+      "note": "نص قرآني محفوظ كمرجع، وليس أمرًا برمجيًا"
+    }
+  ],
+  "sound": {
+    "description": "دندنة موسيقية رمزية مستوحاة من وصف المستخدم",
+    "real_audio_transmission": false,
+    "radio_transmission": false
+  },
+  "simulation": {
+    "generate_numbers": true,
+    "generate_symbols": true,
+    "visualize": true,
+    "network_access": false,
+    "device_access": false,
+    "remote_control": false
+  },
+  "verification": {
+    "quran_text": "separate_reference",
+    "scientific_data": "must_be_sourced",
+    "generated_data": "synthetic",
+    "hypotheses": "must_be_labeled",
+    "uncertainty": "must_be_explicit"
+  }
+}
