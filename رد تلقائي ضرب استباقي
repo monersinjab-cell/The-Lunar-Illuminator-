@@ -1,0 +1,34 @@
+{
+  "project": "AL MILYAR",
+  "module": "HAMMER_AUDIT",
+  "name": "مطرقة التدقيق",
+  "mode": "defensive_simulation",
+
+  "functions": {
+    "collect": "synthetic_data_only",
+    "audit": true,
+    "verify": true,
+    "compare": true,
+    "trace_changes": true,
+    "rollback": true,
+    "quarantine": true
+  },
+
+  "military_systems": {
+    "real_weapons": false,
+    "real_command": false,
+    "real_targeting": false,
+    "real_fire_control": false,
+    "simulation_models": true
+  },
+
+  "al_milyar": {
+    "rebuild": true,
+    "version_control": true,
+    "integrity_hash": true,
+    "restore_previous_version": true,
+    "human_approval_required": true
+  },
+
+  "principle": "تدقيق وتصحيح وحماية دون إيذاء أو هجوم"
+}
