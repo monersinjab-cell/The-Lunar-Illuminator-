@@ -1,0 +1,41 @@
+{
+  "project": "moner",
+  "mode": "transparent_simulation",
+  "input": {
+    "text": "moner",
+    "value": 1000000000
+  },
+  "character_pool": {
+    "letters": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+    "digits": "0123456789",
+    "symbols": "-_.:;|/+=*~",
+    "country_codes": [
+      "SY",
+      "SA",
+      "TR",
+      "FR",
+      "DE",
+      "CN",
+      "ES",
+      "GB",
+      "US",
+      "IN"
+    ]
+  },
+  "transformation": {
+    "step_01_normalize": true,
+    "step_02_convert_to_symbols": true,
+    "step_03_mix_letters_digits": true,
+    "step_04_mix_country_codes": true,
+    "step_05_shuffle": true,
+    "step_06_generate_billion_identifier": true
+  },
+  "output": {
+    "identifier": "MONER-BILLION",
+    "display_all_steps": true,
+    "reversible": false,
+    "real_identity_data": false,
+    "passport_modification": false,
+    "external_transmission": false
+  }
+}
