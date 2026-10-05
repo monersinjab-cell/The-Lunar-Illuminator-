@@ -1,0 +1,16 @@
+{
+  "project": "Munir Lunar Illuminator",
+  "identity": {
+    "name": "moner",
+    "birth_place": "K.S.A."
+  },
+  "simulation": {
+    "numbers": true,
+    "symbols": true,
+    "separators": true,
+    "satellite_model": true,
+    "broadcast_simulation": true,
+    "real_world_transmission": false,
+    "document_modification": false
+  }
+}
