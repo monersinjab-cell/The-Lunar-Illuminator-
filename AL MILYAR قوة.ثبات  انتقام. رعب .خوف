@@ -1,0 +1,26 @@
+{
+  "project": "AL_MILYAR",
+  "mode": "defensive_simulation",
+  "symbols": [
+    "SIGMA",
+    "WOLF",
+    "ILLUSION",
+    "DONKEY_SOUND"
+  ],
+  "signal_processing": {
+    "synthetic_numbers": true,
+    "synthetic_frequencies": true,
+    "pattern_detection": true,
+    "automatic_response": "ALERT_ONLY"
+  },
+  "response": {
+    "weapon": false,
+    "attack": false,
+    "harm": false,
+    "retaliation": false,
+    "automatic_alert": true,
+    "logging": true
+  },
+  "multiplier": "1000000000",
+  "meaning": "رمز لحجم المحاكاة وليس قوة هجومية"
+}
