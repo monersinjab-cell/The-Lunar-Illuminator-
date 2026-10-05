@@ -1,0 +1,32 @@
+{
+  "project": "Munir Lunar Illuminator",
+  "mode": "simulation_only",
+  "identity": {
+    "name": "Munir",
+    "father": "Muhammad Nadhir",
+    "family": "Sinjab",
+    "mother": "Maida",
+    "national_id": "[REDACTED]",
+    "birth_place": "Elriyaz",
+    "birth_date": "1994-04-11"
+  },
+  "data_transform": {
+    "numbers": true,
+    "symbols": true,
+    "separators": true,
+    "stutter_encoding": true,
+    "real_identity_transmission": false
+  },
+  "space_simulation": {
+    "satellite_model": true,
+    "orbit_model": true,
+    "radio_transmission": false,
+    "antenna_control": false,
+    "external_network": false
+  },
+  "output": {
+    "type": "synthetic",
+    "audience": "software_simulation",
+    "real_world_control": false
+  }
+}
