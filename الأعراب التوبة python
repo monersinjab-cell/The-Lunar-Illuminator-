@@ -1,0 +1,63 @@
+import json
+import unicodedata
+
+TEXT = [
+    "استعذ بالله من الشيطان الرجيم",
+    "الاعراب اشد كفرا ونفاقا واجدر الا يعلموا حدود ما انزل الله على رسوله والله عليم حكيم",
+    "استعذ بالله من الشيطان الرجيم",
+    "ومن الاعراب من يتخذ ما ينفق مغرما ويتربص بكم الدوائر عليهم دائرة السوء والله سميع عليم",
+    "استعذ بالله من الشيطان الرجيم",
+    "ومن الاعراب من يؤمن بالله واليوم الاخر ويتخذ ما ينفق قربات عند الله وصلوات الرسول الا انها قربة لهم سيدخلهم الله في رحمته ان الله غفور رحيم"
+]
+
+def inspect_characters(text):
+    result = []
+
+    for index, char in enumerate(text):
+        result.append({
+            "index": index,
+            "character": char,
+            "codepoint": f"U+{ord(char):04X}",
+            "unicode_name": unicodedata.name(char, "UNKNOWN"),
+            "category": unicodedata.category(char),
+            "combining": unicodedata.combining(char)
+        })
+
+    return result
+
+
+project = {
+    "project": "قمرا منيرا باذن ربه",
+    "purpose": "unicode_character_preservation",
+    "preserve_text": True,
+    "preserve_order": True,
+    "preserve_symbols": True,
+    "preserve_digits": True,
+    "preserve_punctuation": True,
+    "preserve_diacritics": True,
+    "encoding": "UTF-8",
+    "texts": []
+}
+
+for verse_text in TEXT:
+    project["texts"].append({
+        "raw_text": verse_text,
+        "characters": inspect_characters(verse_text)
+    })
+
+project["principle"] = "مالك الملك الله عز وجل"
+
+with open(
+    "quran_unicode.json",
+    "w",
+    encoding="utf-8"
+) as file:
+    json.dump(
+        project,
+        file,
+        ensure_ascii=False,
+        indent=2
+    )
+
+print("تم إنشاء quran_unicode.json")
+print("تم حفظ الأحرف والرموز والأرقام والحركات حسب Unicode دون حذفها.")
