@@ -1,0 +1,70 @@
+{
+  "project": {
+    "name": "The Lunar Illuminator",
+    "arabic_name": "قمرا منيرا باذن ربه",
+    "codename": "Munir",
+    "version": "1.0.0",
+    "mode": "simulation_only",
+    "description": "مشروع معرفي ومحاكاة برمجية آمنة."
+  },
+
+  "simulation": {
+    "frequency_mhz": 1408,
+    "real_rf_transmission": false,
+    "hardware_control": false,
+    "virtual_signal": true,
+    "duration_seconds": 10,
+    "sample_rate_hz": 1000000
+  },
+
+  "files": {
+    "main_config": "config.json",
+    "python_core": "munir.py",
+    "simulation": "broadcast.py",
+    "quran_protocol": "quran_protocol.json",
+    "status_page": "RF_STATUS.html"
+  },
+
+  "quran_protocol": {
+    "preserve_quran_text": true,
+    "without_diacritics": true,
+    "without_added_tafsir": true,
+    "do_not_attribute_model_outputs_to_quran": true,
+    "verification_required": true,
+    "uncertainty_label_required": true
+  },
+
+  "knowledge_types": [
+    "quranic_text",
+    "scientific_source",
+    "historical_fact",
+    "experiment",
+    "inference",
+    "reflection",
+    "unverified_hypothesis"
+  ],
+
+  "safety": {
+    "real_transmission": false,
+    "unauthorized_access": false,
+    "hidden_control": false,
+    "remote_control": false,
+    "human_decision_required": true
+  },
+
+  "purpose": {
+    "knowledge": true,
+    "research": true,
+    "reflection": true,
+    "beneficial_work": true,
+    "help_for_good": true,
+    "human_choice_respected": true
+  },
+
+  "status": {
+    "type": "software_simulation",
+    "frequency": "1408 MHz",
+    "transmitter": "disabled",
+    "message": "هذه محاكاة برمجية ولا تمثل بثا لاسلكيا حقيقيا."
+  }
+}
