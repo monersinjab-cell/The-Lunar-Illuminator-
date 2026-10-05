@@ -1,0 +1,51 @@
+{
+  "languages": {
+    "arabic": {
+      "enabled": true,
+      "script": "Arabic"
+    },
+    "chinese": {
+      "enabled": true,
+      "simplified": true,
+      "traditional": true,
+      "varieties": [
+        "Mandarin",
+        "Cantonese",
+        "Wu",
+        "Min Nan",
+        "Hakka",
+        "Gan",
+        "Xiang",
+        "Jin",
+        "Huizhou",
+        "Pinghua"
+      ]
+    },
+    "japanese": {
+      "enabled": true,
+      "scripts": [
+        "Hiragana",
+        "Katakana",
+        "Kanji"
+      ],
+      "regional_variation": true
+    }
+  },
+
+  "custom_sequences": [
+    "شين شان شو",
+    "ضا ضو ضي"
+  ],
+
+  "unicode": {
+    "encoding": "UTF-8",
+    "preserve_arabic": true,
+    "preserve_cjk": true,
+    "preserve_japanese": true,
+    "preserve_custom_sequences": true,
+    "preserve_digits": true,
+    "preserve_symbols": true,
+    "preserve_punctuation": true,
+    "preserve_marks": true
+  }
+}
