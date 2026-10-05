@@ -1,0 +1,102 @@
+import json
+import unicodedata
+from datetime import datetime, timezone
+
+RAW_TEXT = """استعذ بالله من الشيطان الرجيم 
+يريدون ان يطفؤوا نور الله باافواههم ويأبى الله الا ان يتم نوره ولو كره الكافرون 
+
+استذع بالله من الشيطان الرجيم 
+هو الذي ارسل رسوله بالهدى ودين الحق ليظهره على٠ الدين كله ولو كره المشركون  
+
+استعذ بالله من الشيطان الرجيم 
+اليس الله بكاف عبده 
+
+استعذ بالله ٠من الشيطان لرجيم٠
+ان الله يدافع عن الذين آمنوا 
+ان الله لايحب كل خوان كفور 
+
+استعش بالله من الشيطان الرجيم 
+اذن للذين يقاتلون باانهم ظلموا
+وان الله على نصرهم اذا يشاء قدير 
+
+وهو على كل شيئ قدير 
+
+استعذ بالله من الشيطان الرجيم 
+ويخلق مالاتعلمون"""
+
+def character_record(char, index):
+    return {
+        "index": index,
+        "character": char,
+        "codepoint": f"U+{ord(char):04X}",
+        "unicode_name": unicodedata.name(char, "UNKNOWN"),
+        "category": unicodedata.category(char),
+        "combining_class": unicodedata.combining(char),
+        "is_digit": char.isdigit(),
+        "is_letter": char.isalpha(),
+        "is_whitespace": char.isspace(),
+        "is_punctuation": unicodedata.category(char).startswith("P"),
+        "is_mark": unicodedata.category(char).startswith("M")
+    }
+
+characters = [
+    character_record(char, i)
+    for i, char in enumerate(RAW_TEXT)
+]
+
+project = {
+    "project": "قمرا منيرا باذن ربه",
+    "version": "1.0",
+    "purpose": [
+        "preserve_input",
+        "unicode_analysis",
+        "integrity_checking",
+        "awareness_and_defensive_safety"
+    ],
+
+    "safety_boundary": {
+        "no_covert_interference": True,
+        "no_mind_disruption": True,
+        "no_hidden_harmful_transmission": True,
+        "no_unauthorized_access": True,
+        "no_control_of_people_or_systems": True
+    },
+
+    "coverage_concept": {
+        "space": True,
+        "ground": True,
+        "underground": True,
+        "underwater": True,
+        "digital_systems": True,
+        "meaning": "مراقبة وسلامة ووعي فقط، وليس بثا مؤذيا أو تحكما خفيا"
+    },
+
+    "input": {
+        "encoding": "UTF-8",
+        "raw_text_preserved": True,
+        "text": RAW_TEXT
+    },
+
+    "unicode": {
+        "character_count": len(RAW_TEXT),
+        "characters": characters
+    },
+
+    "integrity": {
+        "original_text_is_preserved": True,
+        "automatic_quran_correction": False,
+        "automatic_quran_attribution": False,
+        "verification_required": True
+    },
+
+    "timestamp": datetime.now(timezone.utc).isoformat(),
+
+    "principle": "مالك الملك الله عز وجل"
+}
+
+with open("munir_defensive_unicode.json", "w", encoding="utf-8") as f:
+    json.dump(project, f, ensure_ascii=False, indent=2)
+
+print("تم إنشاء munir_defensive_unicode.json")
+print("تم حفظ كل المحارف والرموز والأرقام والمسافات وعلامات Unicode.")
+print("لم يتم تعديل النص المدخل.")
