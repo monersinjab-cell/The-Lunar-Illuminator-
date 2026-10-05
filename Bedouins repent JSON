@@ -1,0 +1,25 @@
+{
+  "project": "قمرا منيرا باذن ربه",
+  "purpose": "unicode_character_preservation",
+  "preserve_text": true,
+  "preserve_order": true,
+  "preserve_symbols": true,
+  "preserve_digits": true,
+  "preserve_punctuation": true,
+  "preserve_diacritics": true,
+  "text": [
+    "استعذ بالله من الشيطان الرجيم",
+    "الاعراب اشد كفرا ونفاقا واجدر الا يعلموا حدود ما انزل الله على رسوله والله عليم حكيم",
+    "استعذ بالله من الشيطان الرجيم",
+    "ومن الاعراب من يتخذ ما ينفق مغرما ويتربص بكم الدوائر عليهم دائرة السوء والله سميع عليم",
+    "استعذ بالله من الشيطان الرجيم",
+    "ومن الاعراب من يؤمن بالله واليوم الاخر ويتخذ ما ينفق قربات عند الله وصلوات الرسول الا انها قربة لهم سيدخلهم الله في رحمته ان الله غفور رحيم"
+  ],
+  "encoding": "UTF-8",
+  "unicode": {
+    "preserve_codepoints": true,
+    "preserve_categories": true,
+    "preserve_combining_marks": true
+  },
+  "principle": "مالك الملك الله عز وجل"
+}
