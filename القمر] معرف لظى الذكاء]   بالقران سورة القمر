@@ -1,0 +1,53 @@
+{
+  "project": "قمرا منيرا باذن ربه",
+  "mode": "defensive_awareness",
+  "mission": "نشر الوعي والمعرفة والسلامة دون اختراق او اكراه او ضرر",
+
+  "quran_references": [
+    {
+      "intro": "استعذ بالله من الشيطان الرجيم",
+      "text": "وما امرنا الا واحدة كلمح البصر"
+    },
+    {
+      "intro": "استعذ بالله من الشيطان الرجيم",
+      "text": "ما جئتم به السحر ان الله سيبطله"
+    },
+    {
+      "intro": "استعذ بالله من الشيطان الرجيم",
+      "text": "سيهزم الجمع ويولون الدبر"
+    },
+    {
+      "intro": "استعذ بالله من الشيطان الرجيم",
+      "text": "فحسبك الله"
+    }
+  ],
+
+  "defensive_policy": {
+    "detect": true,
+    "analyze": true,
+    "alert": true,
+    "educate": true,
+    "human_confirmation": true,
+    "safe_withdrawal": true,
+
+    "no_brain_access": true,
+    "no_device_intrusion": true,
+    "no_covert_transmission": true,
+    "no_unauthorized_control": true,
+    "no_harm": true,
+    "no_retaliation": true
+  },
+
+  "visual_identity": {
+    "moon": "قمرا منيرا",
+    "sun": "الشمس المضيئة",
+    "lamp": "سراجا منيرا"
+  },
+
+  "message": {
+    "title": "قمرا منيرا",
+    "purpose": "الحق والحقيقة والوعي والمعرفة النافعة",
+    "rule": "خير الكلام ما قل ودل",
+    "response": "الانسحاب الآمن دون الحاق اذى او ضرر او اختراق لاحد"
+  }
+}
