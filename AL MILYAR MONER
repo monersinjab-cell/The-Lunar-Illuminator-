@@ -1,0 +1,31 @@
+{
+  "project": "AL_MILYAR",
+  "mode": "global_identity_simulation",
+  "scope": {
+    "countries": "all",
+    "passports": true,
+    "identity_documents": true,
+    "rules": true,
+    "synthetic_data_only": true
+  },
+  "encoding": {
+    "alphabet": "AL_MILYAR",
+    "letters": true,
+    "digits": true,
+    "separators": true,
+    "country_symbols": true,
+    "self_generated_identifier": true
+  },
+  "privacy": {
+    "real_passport_numbers": false,
+    "real_national_ids": false,
+    "personal_data_extraction": false,
+    "unauthorized_database_access": false
+  },
+  "output": {
+    "format": "JSON",
+    "fully_simulated": true,
+    "auditable": true,
+    "reversible_to_real_identity": false
+  }
+}
