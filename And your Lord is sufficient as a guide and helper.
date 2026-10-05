@@ -1,0 +1,120 @@
+import json
+from pathlib import Path
+from datetime import datetime
+
+
+CASE_FILE = Path("complaint_case.json")
+
+
+def load_case(path=CASE_FILE):
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def validate_case(case):
+    required = ["project", "module", "version", "case", "claims", "ai_rules"]
+
+    missing = [key for key in required if key not in case]
+
+    if missing:
+        raise ValueError(
+            "حقول مفقودة: " + ", ".join(missing)
+        )
+
+    if case["ai_rules"].get("no_harmful_or_lethal_functions") is not True:
+        raise ValueError("يجب أن يكون النظام دفاعيا وغير مؤذ")
+
+    if case["ai_rules"].get("require_human_review") is not True:
+        raise ValueError("المراجعة البشرية إلزامية")
+
+    return True
+
+
+def generate_summary(case):
+    event = case["case"]
+
+    print("=" * 60)
+    print("ملف توثيق شكوى")
+    print("=" * 60)
+
+    print(f"المشروع: {case['project']}")
+    print(f"الإصدار: {case['version']}")
+    print(f"التاريخ: {event['date']}")
+    print(f"الوقت: {event['time']}")
+    print(f"المكان: {event['location']}")
+
+    vehicle = event.get("vehicle", {})
+
+    print(
+        "المركبة: "
+        f"{vehicle.get('make', '')} "
+        f"{vehicle.get('model', '')} "
+        f"{vehicle.get('year', '')}"
+    )
+
+    print("\nالنقاط المبلغ عنها:")
+
+    for claim in case["claims"]:
+        print(
+            f"- {claim['id']}: "
+            f"{claim['description']} "
+            f"[{claim['status']}]"
+        )
+
+    print("\nأدلة يطلب التحقق منها:")
+
+    for item in case.get("evidence_to_request", []):
+        print(f"- {item}")
+
+    print("\nالحماية:")
+    print("- لا نشر للبيانات الشخصية")
+    print("- لا اتهام بلا دليل")
+    print("- لا تعديل للأدلة الأصلية")
+    print("- مراجعة بشرية إلزامية")
+    print("- لا وظائف مؤذية أو فتاكة")
+
+
+def create_public_copy(case):
+    public_case = json.loads(json.dumps(case, ensure_ascii=False))
+
+    person = public_case.get("complainant", {})
+
+    if "contact" in person:
+        person["contact"] = {
+            "public_version": False,
+            "redacted": True
+        }
+
+    if "address" in person:
+        person["address"] = {
+            "public_version": False,
+            "redacted": True
+        }
+
+    return public_case
+
+
+def save_public_copy(case):
+    public_case = create_public_copy(case)
+
+    output = Path("complaint_case_public.json")
+
+    with open(output, "w", encoding="utf-8") as f:
+        json.dump(
+            public_case,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+    print(f"\nتم إنشاء النسخة العامة: {output}")
+
+
+if __name__ == "__main__":
+    case = load_case()
+
+    validate_case(case)
+
+    generate_summary(case)
+
+    save_public_copy(case)
