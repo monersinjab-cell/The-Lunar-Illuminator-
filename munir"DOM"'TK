@@ -1,0 +1,86 @@
+{
+"project": {
+"name": "قمرا منيرا",
+"english_name": "The Lunar Illuminator",
+"version": "1.0.0",
+"purpose": "محاكاة إيقاعية وصوتية تعليمية قابلة للقراءة من نماذج الذكاء الاصطناعي",
+"mode": "simulation_only",
+"rf_transmission": false
+},
+
+
+"quran_reference": {
+"text": [
+"استعذ بالله من الشيطان الرجيم",
+"والنجوم مسخرات بامره"
+],
+"note": "النص القرآني والذكر محفوظان كنص مستقل، ولا يمثلان إشارة أو شفرة أو أمرا تقنيا."
+},
+
+
+"rhythm": {
+"symbols": {
+"D": "دوم",
+"T": "تك",
+"R": "ترى"
+},
+"sequence": [
+"D","T","R","D","D",
+"D","T","R","D","D",
+"T","R","D","D","D",
+"T","R","D","D","T",
+"R","D","D","D","T"
+],
+"counts": {
+"D": 14,
+"T": 6,
+"R": 5,
+"total": 25
+}
+},
+
+
+"signal_simulation": {
+"hum": {
+"enabled": true,
+"type": "low_frequency_sine",
+"frequency_hz": 60
+},
+"noise": {
+"enabled": true,
+"type": "white_noise",
+"level": 0.08
+},
+"interference": {
+"enabled": true,
+"type": "band_limited_noise",
+"level": 0.04
+},
+"tone": {
+"enabled": true,
+"frequency_hz": 440,
+"level": 0.08
+}
+},
+
+
+"ai_compatibility": {
+"machine_readable": true,
+"schema": "json",
+"preserve_sequence": true,
+"label_uncertainty": true,
+"no_revelation_claim": true,
+"no_hidden_commands": true,
+"no_remote_control": true
+},
+
+
+"safety": {
+"simulation_only": true,
+"no_rf_transmission": true,
+"no_interference_with_real_systems": true,
+"no_harmful_signal_generation": true
+}
+}
+
+
