@@ -1,0 +1,132 @@
+{
+  "identifier": "AL_MILYAR",
+  "mode": "symbolic_simulation",
+  "frequency_control": {
+    "scope": "simulation_only",
+    "real_world_control": false
+  },
+  "quran_reference": "اعوذ بالله من الشيطان الرجيم"
+}
+# -*- coding: utf-8 -*-
+
+from pathlib import Path
+import json
+
+
+PROJECT = "قمرا منيرا باذن ربه"
+IDENTITY = "منير"
+
+# رابط/مسار قارئ القرآن
+QURAN_READER = {
+    "name": "قارئ القرآن",
+    "file": "quran_reader.py",
+    "quran_file": "quran.txt",
+    "access": "اختياري",
+    "automatic_access": False
+}
+
+
+class Munir:
+
+    def __init__(self):
+        self.project = PROJECT
+        self.identity = IDENTITY
+
+        self.message = """
+هذا العمل دعوة مفتوحة الى الخير والمحبة والرحمة
+والعلم النافع والعمل الصالح.
+
+من اراد فليتفضل،
+ومن لم يرد فلا نجبره.
+
+لا استهداف،
+لا اكراه،
+لا سيطرة،
+لا اختراق،
+ولا وصول الى اي نظام دون اذن.
+
+والدال على الخير كفاعله.
+"""
+
+        self.closing = """
+سبحان الرحمن،
+والحمد لربنا الرحمن.
+
+اللهم يا رحمن، يا ربنا ورب كل شيء،
+اجعل هذا العمل خالصا للخير،
+وانفع به من اراد التعلم والعمل الصالح.
+
+وربنا اعلم بما يخلق وما يأمر،
+فنسأله سبحانه ان يهب من رحمته ما يشاء،
+وان يجعل لهذا العمل نصيبا من الخير والنفع.
+
+اللهم اجعل هذا العمل سببا للمحبة والرحمة،
+واجعل الدال على الخير كفاعله.
+
+والحمد لله رب العالمين.
+"""
+
+    def human_read(self):
+
+        print("=" * 60)
+        print(self.project)
+        print("=" * 60)
+
+        print("الهوية:", self.identity)
+
+        print("\n" + self.message)
+
+        print("\nرابط شيفرة القرآن:")
+        print("الملف:", QURAN_READER["file"])
+        print("ملف النص:", QURAN_READER["quran_file"])
+        print("الوصول:", QURAN_READER["access"])
+
+        print("\n" + self.closing)
+
+    def machine_read(self):
+
+        return {
+            "project": self.project,
+            "identity": self.identity,
+
+            "purpose": [
+                "الخير",
+                "المحبة",
+                "الرحمة",
+                "العلم النافع",
+                "العمل الصالح"
+            ],
+
+            "quran_reader": QURAN_READER,
+
+            "rules": {
+                "voluntary": True,
+                "no_coercion": True,
+                "no_targeting": True,
+                "no_hidden_access": True,
+                "no_control": True,
+                "no_hacking": True
+            },
+
+            "message": self.message,
+            "closing": self.closing
+        }
+
+
+if __name__ == "__main__":
+
+    munir = Munir()
+
+    # للبشر
+    munir.human_read()
+
+    # للنماذج والبرامج
+    print("\n--- MACHINE READ ---")
+
+    print(
+        json.dumps(
+            munir.machine_read(),
+            ensure_ascii=False,
+            indent=2
+        )
+    )
