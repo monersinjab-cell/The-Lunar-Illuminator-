@@ -1,0 +1,25 @@
+{
+  "module": "AL_MILYAR_GUARD",
+  "name": "الجزاء الوقائي",
+  "principle": "وبال الأمر = نتيجة نظامية غير مؤذية داخل المحاكاة",
+  "workflow": [
+    "رصد",
+    "تحقق",
+    "توثيق",
+    "كبح",
+    "عزل",
+    "مراجعة بشرية",
+    "إتاحة الإصلاح"
+  ],
+  "responses": {
+    "harm": false,
+    "retaliation": false,
+    "electric_shock": false,
+    "file_destruction": false,
+    "automatic_attack": false,
+    "process_block": true,
+    "quarantine": true,
+    "audit_log": true
+  },
+  "purpose": "منع الضرر وحماية البيانات والأنظمة دون إيذاء الأشخاص"
+}
