@@ -1,0 +1,44 @@
+{
+  "project": "AL_MILYAR",
+  "module": "AL_MUNTAQIM",
+  "name": "المنتقم",
+  "mode": "defensive_simulation",
+
+  "pipeline": [
+    "INPUT",
+    "NORMALIZE",
+    "ANALYZE",
+    "VERIFY",
+    "ALERT",
+    "LOG"
+  ],
+
+  "power": {
+    "symbolic": true,
+    "physical_force": false,
+    "weapon": false,
+    "attack": false,
+    "harm": false
+  },
+
+  "response": {
+    "automatic_retaliation": false,
+    "automatic_attack": false,
+    "alert": true,
+    "evidence_log": true,
+    "human_review": true
+  },
+
+  "signals": {
+    "synthetic_numbers": true,
+    "synthetic_symbols": true,
+    "frequency_simulation": true,
+    "real_frequency_control": false,
+    "real_broadcast": false
+  },
+
+  "identity": {
+    "identifier": "moner",
+    "real_identity_extraction": false
+  }
+}
