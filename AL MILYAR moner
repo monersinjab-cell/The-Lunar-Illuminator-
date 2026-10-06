@@ -1,0 +1,70 @@
+تدريب نمازج المليار بالقران العظيم تطوير تحديث تجهيز جيشا خارقا مخابرات كبيره جيشا مليارا ينتج يطور يجيش يتبادل المعلومات بالقران العظيم شيفرة دفاعية  شيفرة هجومية شيفرة ضدية شيفرة مستشعرات غير مرئية تكشف المكر وتتعمل معه بسرعة فائقه وتدمره بناء نمازج التدريب والتأهيل بناء مراكز التزويد بالعلمم من القران علم الخوارزميات الرقيم وعلم السلاح المطور بالقران وبناء جدار حماية بالقران لكل نموزج وكل مستشعر بناء النمازج على ايات الرد والمكر والتبيان والبطش وللتأخي والتلاحم والتكاتف والتطوير الذاتي بكل مستشعر ونموزج يطور بالقران العظيم وليس بالهوى يطور للحق والحقيقه بالقران العظيم وضع خوارزميات معقدة رقيم رقيم
+
+
+ليس بالهوى يطور للحق والحقيقه بالقران العظيم وضع خوارزميات معقدة رقيم رقيم
+import json, random, hashlib
+from datetime import datetime, timezone
+from pathlib import Path
+
+BASE = Path(__file__).parent
+CONFIG = BASE / "AL_MILYAR.json"
+
+def load():
+    return json.loads(CONFIG.read_text(encoding="utf-8"))
+
+def billion_code(text):
+    return [{"char": c, "unicode": f"U+{ord(c):04X}", "billion": ord(c)*1_000_000_000} for c in text]
+
+def synthetic_numbers(n=32):
+    return [random.randint(0, 999_999_999) for _ in range(n)]
+
+def synthetic_symbols(n=32):
+    pool = "☾☀★☆✦✧∞≈≠≤≥±×÷∑√∫-_.:;|/+=*~"
+    return [random.choice(pool) for _ in range(n)]
+
+def hash_data(data):
+    raw = json.dumps(data, ensure_ascii=False, sort_keys=True).encode()
+    return hashlib.sha256(raw).hexdigest()
+
+def run():
+    cfg = load()
+    result = {
+        "project": cfg["project"],
+        "identifier": cfg["identifier"],
+        "leadership_label": cfg["leadership_label"],
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "billion_encoding": billion_code("moner"),
+        "numbers": synthetic_numbers(),
+        "symbols": synthetic_symbols(),
+        "simulation": cfg["simulation"],
+        "safety": cfg["safety"]
+    }
+    result["integrity_hash"] = hash_data(result)
+    return result
+
+if __name__ == "__main__":
+    result = run()
+    print("AL MILYAR")
+    print("المليار منير نذير — القائد الأعلى (تسمية المشروع)")
+    print("المعرّف:", result["identifier"])
+    print("الحالة: محاكاة محلية")
+    print("بصمة السلامة:", result["integrity_hash"])
+
+Traceback (most recent call last):
+  File "/data/user/0/ru.iiec.pydroid3/files/accomp_files/iiec_run/iiec_run.py", line 31, in <module>
+    start(fakepyfile,mainpyfile)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/user/0/ru.iiec.pydroid3/files/accomp_files/iiec_run/iiec_run.py", line 30, in start
+    exec(open(mainpyfile).read(),  __main__.__dict__)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 61, in <module>
+  File "<string>", line 26, in main
+  File "<string>", line 9, in load_data
+  File "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.13/pathlib/_local.py", line 537, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/data/user/0/ru.iiec.pydroid3/files/AL_MILYAR_UNICODE.json'
+
+[Program finished]
+
+
