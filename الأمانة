@@ -1,0 +1,25 @@
+بسم الله الرحمن الرحيم
+
+
+{
+"project": "قمرا منيرا",
+"type": "بحث نصي",
+"quran_text": [
+"ونريد ان نمن على الذين استضعفوا في الارض ونجعلهم ائمة ونجعلهم الوارثين",
+"ونمكن لهم في الارض ونري فرعون وهامان وجنودهما منهم ما كانوا يحذرون",
+"وحنانا من لدنا وزكاة"
+],
+"word_analysis": {
+"النساء": ["ا", "ل", "ن", "س", "ا", "ء"],
+"الانثى": ["ا", "ل", "ا", "ن", "ث", "ى"],
+"الفتيات": ["ا", "ل", "ف", "ت", "ي", "ا", "ت"]
+},
+"method": {
+"quran_text_preserved": true,
+"diacritics_removed_for_analysis": true,
+"added_tafsir": false,
+"interpretation": false,
+"word_analysis_is_separate_from_quran_text": true
+}
+}
+
