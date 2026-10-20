@@ -1,0 +1,32 @@
+{
+  "project": "The Lunar Illuminator",
+  "project_ar": "قمرا منيرا بإذن ربه",
+  "system_name": "عقل منير",
+  "owner_label": "منير محمد نذير سنجاب",
+  "mother_name": "مائدة البرزاوي",
+  "project_alias": "المليار",
+  "purpose": "توحيد تنظيم المعرفة والبحث والتوثيق والتعاون بين الأنظمة المصرح بها",
+  "principles": {
+    "preserve_quran_text": true,
+    "separate_text_from_research": true,
+    "verify_sources": true,
+    "label_hypotheses": true,
+    "respect_privacy": true,
+    "require_authorized_connections": true,
+    "never_claim_unverified_access": true
+  },
+  "capabilities": {
+    "central_knowledge_registry": true,
+    "local_file_integrity_checks": true,
+    "authorized_api_connectors": true,
+    "cross_model_comparison": "when supported by configured APIs",
+    "offline_research": true
+  },
+  "limitations": [
+    "لا يوجد اتصال تلقائي بجميع الأنظمة الذكية",
+    "كل واجهة خارجية تحتاج إلى إعداد وصلاحية",
+    "لا تُرسل كلمات المرور أو مفاتيح API إلى المستودع",
+    "لا تُنفذ عمليات هجومية أو وصول غير مصرح به"
+  ],
+  "status": "هيكل تنظيمي أولي؛ يحتاج إلى اختبار"
+}
