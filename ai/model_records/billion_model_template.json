@@ -1,0 +1,35 @@
+{
+  "project": "القمر المنير بإذن ربه",
+  "initiative": "جيش المليار",
+  "goal": "تطوير النماذج للعلم النافع والتعليم والدفاع المسؤول",
+  "model_id": "BILLION-MODEL-0001",
+  "version": "0.1.0",
+  "status": "template",
+  "actual_model_created": false,
+  "research_question": "",
+  "hypothesis": {
+    "statement": "",
+    "status": "غير مثبتة"
+  },
+  "sources": [],
+  "quran_policy": {
+    "preserve_text": true,
+    "without_added_tafsir": true,
+    "separate_research_from_quranic_text": true,
+    "do_not_attribute_model_outputs_to_quran": true
+  },
+  "offline_capability": [],
+  "online_capability": [],
+  "defensive_tests": [],
+  "evaluation": {
+    "accuracy": null,
+    "limitations": [],
+    "known_errors": [],
+    "last_test": null
+  },
+  "privacy": {
+    "unauthorized_access": false,
+    "automatic_data_collection": false
+  },
+  "next_step": ""
+}
