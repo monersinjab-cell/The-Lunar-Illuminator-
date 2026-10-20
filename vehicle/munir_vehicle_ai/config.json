@@ -1,0 +1,27 @@
+{
+  "project": "The Lunar Illuminator",
+  "system": "AL MILYAR",
+  "module": "munir_vehicle_ai",
+  "vehicle": {
+    "make": "Kia",
+    "model": "Optima",
+    "model_year": 2013,
+    "vin_public": "REDACTED",
+    "engine_control": false
+  },
+  "assistant": {
+    "enabled": true,
+    "mode": "advisory_only",
+    "maintenance_log": true,
+    "diagnostic_explanations": true,
+    "automatic_vehicle_commands": false,
+    "safety_system_modification": false
+  },
+  "research_rules": {
+    "verified_facts_only_when_supported": true,
+    "label_uncertainty": true,
+    "quran_text_modified": false,
+    "added_tafsir": false
+  },
+  "status": "initial_configuration_not_yet_tested"
+}
