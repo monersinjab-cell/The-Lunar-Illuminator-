@@ -1,0 +1,45 @@
+{
+  "project": "قمرا منيرا بإذن ربه",
+  "module": "virtual_command_simulation",
+  "protocol": "quran_reference",
+  "version": "1.0",
+  "purpose": "ربط المحاكاة بقيم البحث المنضبط والمرجعية القرآنية",
+  "principles": {
+    "preserve_quran_text": true,
+    "without_added_tafsir": true,
+    "do_not_attribute_ai_output_to_revelation": true,
+    "distinguish_text_from_research": true,
+    "require_source_verification": true,
+    "record_uncertainty": true,
+    "protect_human_safety": true,
+    "no_real_weapon_control": true
+  },
+  "source_labels": [
+    "quranic_reference",
+    "verified_scientific_source",
+    "historical_fact",
+    "simulation_result",
+    "human_reflection",
+    "unverified_hypothesis"
+  ],
+  "quran_reference_policy": {
+    "store_verse_reference_separately": true,
+    "surah_and_verse_required_when_quoting": true,
+    "verify_exact_text_before_publication": true,
+    "never_rewrite_verse_as_model_output": true,
+    "no_claim_of_revelation_or_unseen_knowledge": true
+  },
+  "simulation": {
+    "mode": "local_fictional_simulation",
+    "real_world_connections": false,
+    "real_weapon_control": false,
+    "automatic_actions": false
+  },
+  "audit": {
+    "record_input_and_result": true,
+    "identify_source_type": true,
+    "record_errors": true,
+    "allow_human_review": true
+  },
+  "status": "research_protocol_not_a_religious_interpretation"
+}
