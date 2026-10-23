@@ -1,0 +1,59 @@
+{
+  "project": "قمرا منيرا بإذن ربه — المليار",
+  "updated_at_utc": "2026-10-23T19:58:00.932761+00:00",
+  "completed_verified": 0,
+  "total_tasks": 7,
+  "progress_percent": 0.0,
+  "tasks": [
+    {
+      "id": "M-001",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    },
+    {
+      "id": "M-002",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    },
+    {
+      "id": "M-003",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    },
+    {
+      "id": "M-004",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    },
+    {
+      "id": "M-005",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    },
+    {
+      "id": "M-006",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    },
+    {
+      "id": "M-007",
+      "title": "مهمة",
+      "status": "بانتظار التنفيذ",
+      "evidence_provided": false,
+      "counted_complete": false
+    }
+  ],
+  "rule": "لا تحتسب المهمة مكتملة إلا إذا وُجد دليل وحالة مكتملة."
+}
