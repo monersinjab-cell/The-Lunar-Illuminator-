@@ -1,0 +1,16 @@
+{
+  "project": "The Lunar Illuminator",
+  "check": "local_integrity_check",
+  "files": {
+    "security/munir_integrity_protocol.json": {
+      "sha256": "d77bfebc8e6d35a095bc746708f198e6492472b315cd056d3a425bfa6b8c2007",
+      "json_valid": true
+    },
+    "research/simulation/earth_armies_virtual_world.json": {
+      "sha256": "958e8b673158d41979e0af0c9824e51edce4f04f8b0f9992f607e8fe2184764c",
+      "json_valid": true
+    }
+  },
+  "status": "PASS",
+  "errors": []
+}

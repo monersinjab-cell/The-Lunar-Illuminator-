@@ -1,0 +1,23 @@
+{
+  "project": "قمرا منيرا بإذن ربه",
+  "system": "العقل المنير",
+  "mode": "بحث وتوثيق",
+  "reference": {
+    "surah": "الفرقان",
+    "ayah": 61,
+    "text": "تبارك الذي جعل في السماء بروجا وجعل فيها سراجا وقمرا منيرا",
+    "type": "نص قرآني"
+  },
+  "research_rules": {
+    "preserve_quran_text": true,
+    "separate_revelation_from_analysis": true,
+    "verify_scientific_sources": true,
+    "label_hypotheses": true,
+    "astronomy_based_on_observation": true,
+    "astrology_not_treated_as_proven_science": true,
+    "no_claim_of_direct_revelation_connection": true,
+    "no_control_over_human_minds": true
+  },
+  "status": "سجل بحث محلي؛ لا يمثل اتصالا بالوحي",
+  "created_utc": "2026-10-20T18:28:54.709273+00:00"
+}

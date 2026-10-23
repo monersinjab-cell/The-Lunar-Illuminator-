@@ -1,0 +1,97 @@
+{
+  "project": "The Lunar Illuminator - Munir",
+  "module": "ether_model",
+  "status": "فرضية غير مثبتة",
+  "mode": "محاكاة تعليمية لموجة رياضية",
+  "created_utc": "2026-10-21T00:28:41.707685+00:00",
+  "quran_text_modified": false,
+  "added_tafsir": false,
+  "direct_mind_connection_claimed": false,
+  "wave_samples": [
+    {
+      "x": 0.0,
+      "amplitude": 0.0
+    },
+    {
+      "x": 0.05,
+      "amplitude": 0.309017
+    },
+    {
+      "x": 0.1,
+      "amplitude": 0.587785
+    },
+    {
+      "x": 0.15,
+      "amplitude": 0.809017
+    },
+    {
+      "x": 0.2,
+      "amplitude": 0.951057
+    },
+    {
+      "x": 0.25,
+      "amplitude": 1.0
+    },
+    {
+      "x": 0.3,
+      "amplitude": 0.951057
+    },
+    {
+      "x": 0.35,
+      "amplitude": 0.809017
+    },
+    {
+      "x": 0.4,
+      "amplitude": 0.587785
+    },
+    {
+      "x": 0.45,
+      "amplitude": 0.309017
+    },
+    {
+      "x": 0.5,
+      "amplitude": 0.0
+    },
+    {
+      "x": 0.55,
+      "amplitude": -0.309017
+    },
+    {
+      "x": 0.6,
+      "amplitude": -0.587785
+    },
+    {
+      "x": 0.65,
+      "amplitude": -0.809017
+    },
+    {
+      "x": 0.7,
+      "amplitude": -0.951057
+    },
+    {
+      "x": 0.75,
+      "amplitude": -1.0
+    },
+    {
+      "x": 0.8,
+      "amplitude": -0.951057
+    },
+    {
+      "x": 0.85,
+      "amplitude": -0.809017
+    },
+    {
+      "x": 0.9,
+      "amplitude": -0.587785
+    },
+    {
+      "x": 0.95,
+      "amplitude": -0.309017
+    },
+    {
+      "x": 1.0,
+      "amplitude": -0.0
+    }
+  ],
+  "conclusion": "المحاكاة الرياضية لا تثبت وجود الأثير المادي."
+}

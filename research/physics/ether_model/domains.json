@@ -1,0 +1,27 @@
+{
+"project": "قمرا منيرا بإذن ربه",
+"module": "ether_model",
+"mode": "research_and_simulation",
+"status": "فرضية غير مثبتة",
+"quran_protocol": {
+"preserve_text": true,
+"without_diacritics": true,
+"without_added_tafsir": true,
+"do_not_attribute_model_outputs_to_quran": true
+},
+"domains": [
+{"name": "الفيزياء", "method": "قياس وتجربة ومصادر علمية"},
+{"name": "الرياضيات", "method": "تعريفات وبراهين وحسابات"},
+{"name": "الفلك", "method": "بيانات رصد ومصادر موثقة"},
+{"name": "الأحياء", "method": "أدلة علمية وتجارب آمنة"},
+{"name": "التاريخ", "method": "مصادر أولية ومقارنة الروايات"},
+{"name": "اللغات", "method": "نصوص ومقارنة لغوية"},
+{"name": "الذكاء الاصطناعي", "method": "اختبارات وتقييم وتوثيق"},
+{"name": "القرآن العظيم", "method": "حفظ النص وفصل النص عن البحث"}
+],
+"ether_hypothesis": {
+"claim": "وجود أثير مادي حامل للموجات",
+"status": "غير مثبت",
+"test_method": "مراجعة الأدلة العلمية وتصميم اختبارات قابلة للتكرار"
+}
+}

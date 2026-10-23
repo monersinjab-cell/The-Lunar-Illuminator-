@@ -1,0 +1,34 @@
+{
+"name": "Earth Armies Virtual World",
+"name_ar": "العالم الافتراضي لمحاكاة منظومات الأرض",
+"owner": "منير محمد نذير سنجاب",
+"environment": "isolated_virtual_simulation",
+"status": "fictional_simulation",
+"real_world_connections": false,
+"command_execution": false,
+"weapon_control": false,
+"entities": [
+{
+"id": "unit_alpha",
+"type": "fictional_rescue_team",
+"role": "disaster_response"
+},
+{
+"id": "unit_beta",
+"type": "fictional_logistics_team",
+"role": "medical_and_food_supply"
+},
+{
+"id": "unit_gamma",
+"type": "fictional_mediation_team",
+"role": "deescalation"
+}
+],
+"simulation_objectives": [
+"protect_civilians",
+"coordinate_relief",
+"reduce_conflict",
+"measure_resource_efficiency"
+],
+"results_are_real_world_commands": false
+}

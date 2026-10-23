@@ -1,0 +1,21 @@
+{
+  "project": "The Lunar Illuminator",
+  "project_ar": "القمر المنير بإذن ربه",
+  "model_id": "MODEL-0001",
+  "title": "",
+  "purpose": "التعليم والعلم النافع وخدمة العامة",
+  "surah_number": null,
+  "ayah_references": [],
+  "quran_text_source": "",
+  "research_question": "",
+  "method": "",
+  "letter_number_method": "",
+  "inputs": [],
+  "tests": [],
+  "observed_results": [],
+  "limitations": [],
+  "status": "مسودة غير مختبرة",
+  "human_reviewed": false,
+  "created_models_count": 0,
+  "last_updated": ""
+}

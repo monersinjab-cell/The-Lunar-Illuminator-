@@ -1,0 +1,5 @@
+Project: قمرا منيرا بإذن ربه
+File: munir_light_record.json
+SHA256: 52fcdcedfa409617842b93e71b1abe032882b1a2d7b6951386487887ceceadb6
+Status: Local integrity hash created.
+Note: This hash does not prove the truth of the contents.

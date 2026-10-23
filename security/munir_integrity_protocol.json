@@ -1,0 +1,41 @@
+{
+"project": "The Lunar Illuminator",
+"project_title_ar": "قمرا منيرا بإذن ربه",
+"author": "منير محمد نذير سنجاب",
+"purpose": "knowledge_and_good",
+"security": {
+"verify_json": true,
+"verify_python_syntax": true,
+"exclude_temporary_files": true,
+"record_integrity_hashes": true,
+"never_execute_untrusted_files": true,
+"never_publish_secrets": true
+},
+"quran_reference": {
+"preserve_text": true,
+"without_diacritics": true,
+"without_added_tafsir": true,
+"model_output_is_not_quran": true,
+"revelation_connection_claim": false
+},
+"human_input": {
+"author_supplied_notes": true,
+"consent_required_for_actions": true,
+"no_claim_of_direct_brain_connection": true
+},
+"virtual_world": {
+"mode": "fictional_research_simulation",
+"global_armies": "fictional_entities_only",
+"real_military_network_connections": false,
+"real_weapon_control": false,
+"biological_weapons": false,
+"scope": [
+"disaster_response",
+"humanitarian_logistics",
+"conflict_deescalation",
+"resource_coordination",
+"cybersecurity_training"
+]
+},
+"status": "research_protocol_not_a_religious_interpretation"
+}

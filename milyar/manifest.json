@@ -1,0 +1,13 @@
+{
+  "name": "AL MILYAR",
+  "parent_project": "The Lunar Illuminator",
+  "purpose": "knowledge organization and defensive digital auditing",
+  "mode": "documentation_and_simulation",
+  "status": "initial_documentation",
+  "safety": {
+    "preserve_existing_files": true,
+    "never_publish_credentials": true,
+    "label_simulations": true,
+    "quran_text_unchanged": true
+  }
+}

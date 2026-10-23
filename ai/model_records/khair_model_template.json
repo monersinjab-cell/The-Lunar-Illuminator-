@@ -1,0 +1,32 @@
+{
+  "project": "القمر المنير بإذن ربه",
+  "purpose": "تطوير النماذج الاصطناعية للعلم النافع والخير",
+  "model_id": "KH-MODEL-001",
+  "version": "0.1.0",
+  "status": "prototype",
+  "created_models": 0,
+  "research_question": "",
+  "hypothesis": {
+    "statement": "",
+    "status": "غير مثبتة"
+  },
+  "sources": [],
+  "quran_text_policy": {
+    "preserve_text": true,
+    "without_added_tafsir": true,
+    "do_not_attribute_model_outputs_to_quran": true,
+    "separate_research_from_quranic_text": true
+  },
+  "evaluation": {
+    "accuracy": null,
+    "safety_checks": [],
+    "known_errors": [],
+    "limitations": []
+  },
+  "privacy": {
+    "collect_unnecessary_personal_data": false,
+    "unauthorized_access": false
+  },
+  "next_improvement": "",
+  "notes": "قالب تسجيل؛ لا يعني أن نموذجاً مدرباً قد أُنشئ."
+}
