@@ -1,0 +1,13 @@
+{
+  "source": "Tanzil",
+  "source_url": "https://tanzil.net/",
+  "download_url": "https://tanzil.net/pub/download/index.php",
+  "license_url": "https://tanzil.net/docs/Text_License",
+  "original_download": "quran/source/tanzil_download_original.txt",
+  "processed_text": "quran/source/tanzil_quran_uthmani.txt",
+  "verse_records": 6236,
+  "surah_count": 114,
+  "original_download_sha256": "6933e133dd56db778c801bf738848454e43648105a151e8d84d86a7cae39ec5f",
+  "processed_file_sha256": "76781116345a687997d203ae154d64ceae9d06722139cd0e454c0d446f6da1d8",
+  "status": "structural_checks_passed; independent verse-by-verse comparison not performed"
+}

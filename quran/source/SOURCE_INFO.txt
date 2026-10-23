@@ -1,0 +1,5 @@
+Quran text source: Tanzil
+Website: https://tanzil.net/
+License: https://tanzil.net/docs/Text_License
+The source text must remain unchanged. Preserve attribution and license terms.
+Structural validation is not an independent verse-by-verse verification.
