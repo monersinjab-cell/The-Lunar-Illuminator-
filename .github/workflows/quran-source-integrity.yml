@@ -1,0 +1,30 @@
+name: Quran source integrity
+
+on:
+  push:
+    paths:
+      - "quran/source/**"
+      - "scripts/verify_quran_source.py"
+      - ".github/workflows/quran-source-integrity.yml"
+  pull_request:
+    paths:
+      - "quran/source/**"
+      - "scripts/verify_quran_source.py"
+      - ".github/workflows/quran-source-integrity.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Verify source hashes and record structure
+        run: python scripts/verify_quran_source.py
