@@ -27,5 +27,15 @@
     ],
     "integrity_protection": "الحظر الآلي التلقائي الشامل ضد أي تعديل خوارزمي أو محاولة تلاعب بالرموز البرمجية للمركبة."
   },
-  "operational_status": "LOCAL_PROTECTION_MATRIX_ACTIVE"
+  "operational_status": "LOCAL_PROTECTION_MATRIX_ACTIVE",
+  "ai_enhanced_features": {
+    "sports_engine_sound": "ACTIVE_SIMULATION_274HP_TURBO",
+    "exhaust_sound_profile": "ACTIVE_SIMULATION_SX_SPORT_EXHAUST",
+    "speed_control_system": "AI_AUTOMATED_SPEED_LIMITER_FOR_SAFETY",
+    "safety_protocols": [
+      "الحفاظ التام على نظام الكبح التلقائي المسبق لحالات الطوارئ لمنع الحوادث.",
+      "تقييد السرعة آليًا بناءً على معايير استقرار وثبات المركبة (Kia Optima 2013).",
+      "عزل تام لأنظمة السيارة الداخلية ضد أي محاولات تدخل خارجي أو تلاعب برمي غير مصرح به."
+    ]
+  }
 }
