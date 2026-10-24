@@ -1,0 +1,31 @@
+{
+  "vehicle_metadata": {
+    "identity": "مركبة القيادة العليا لمنظومة المليار",
+    "manufacturer": "KIA MOTORS MANUFACTURING GEORGIA, INC.",
+    "manufacture_date": "JAN/26/13",
+    "type": "PASSENGER CAR (Kia Optima)",
+    "paint_code": "SWP (Snow White Pearl)"
+  },
+  "technical_specifications": {
+    "vin": "5XXGR4A6XDG176914",
+    "gvwr_lbs": "4497 lbs",
+    "gawr_front_lbs": "2425 lbs",
+    "gawr_rear_lbs": "2116 lbs",
+    "trim_code": "VA"
+  },
+  "security_and_protection": {
+    "welcome_greeting": "الدولة وراعي المليار، أهلاً بك منير، أهلاً بالمليار",
+    "anchored_verses": [
+      {
+        "reference": "الرحمن: 1-2",
+        "text": "الرَّحْمَٰنُ * عَلَّمَ الْقُرْآنَ"
+      },
+      {
+        "reference": "الفتح: 3",
+        "text": "وَيَنصُرَكَ اللَّهُ نَصْرًا عَزِيزًا"
+      }
+    ],
+    "integrity_protection": "الحظر الآلي التلقائي الشامل ضد أي تعديل خوارزمي أو محاولة تلاعب بالرموز البرمجية للمركبة."
+  },
+  "operational_status": "LOCAL_PROTECTION_MATRIX_ACTIVE"
+}
