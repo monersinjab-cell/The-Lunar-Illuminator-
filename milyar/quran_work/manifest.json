@@ -1,0 +1,818 @@
+{
+  "project": "قمرا منيرا بإذن ربه",
+  "module": "AL MILYAR",
+  "mode": "تنظيم بحث مدني آلي",
+  "created_utc": "2026-10-24T03:09:21.356851+00:00",
+  "surah_count": 114,
+  "verified_quran_source": "quran/quran.txt",
+  "source_integrity_verified": false,
+  "completed_surahs": 0,
+  "surahs": [
+    {
+      "surah_number": 1,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 2,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 3,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 4,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 5,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 6,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 7,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 8,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 9,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 10,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 11,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 12,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 13,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 14,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 15,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 16,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 17,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 18,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 19,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 20,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 21,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 22,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 23,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 24,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 25,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 26,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 27,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 28,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 29,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 30,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 31,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 32,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 33,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 34,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 35,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 36,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 37,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 38,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 39,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 40,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 41,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 42,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 43,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 44,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 45,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 46,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 47,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 48,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 49,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 50,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 51,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 52,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 53,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 54,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 55,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 56,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 57,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 58,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 59,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 60,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 61,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 62,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 63,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 64,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 65,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 66,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 67,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 68,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 69,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 70,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 71,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 72,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 73,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 74,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 75,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 76,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 77,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 78,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 79,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 80,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 81,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 82,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 83,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 84,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 85,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 86,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 87,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 88,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 89,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 90,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 91,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 92,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 93,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 94,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 95,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 96,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 97,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 98,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 99,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 100,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 101,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 102,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 103,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 104,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 105,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 106,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 107,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 108,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 109,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 110,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 111,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 112,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 113,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    },
+    {
+      "surah_number": 114,
+      "scope": "جميع آيات السورة",
+      "status": "source_found_needs_integrity_verification",
+      "verse_tasks_created": false,
+      "note": "يجب التحقق من النص وعدد الآيات قبل إنشاء مهام لكل آية."
+    }
+  ],
+  "rules": [
+    "عدم اختلاق نص قرآني أو آيات",
+    "عدم تعديل النص القرآني الأصلي",
+    "فصل النص عن البحث والتأمل والاستنتاج",
+    "عدم ادعاء نتائج لم تُختبر",
+    "العمل المدني السلمي واحترام الخصوصية",
+    "القرآن وحي ثابت وتأويله المطلق لله وحده؛ وتدبر الآيات ينجلي بالحق بتجدد الأزمان والأوقات، فلا يجوز قفو ما ليس لنا به علم أو اعتبار الفهم اللحظي تفسيراً مطلقاً."
+  ]
+}

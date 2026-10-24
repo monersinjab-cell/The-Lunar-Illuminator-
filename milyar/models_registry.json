@@ -1,0 +1,43 @@
+{
+  "project": "قمرا منيرا بإذن ربه",
+  "system": "AL MILYAR",
+  "version": 1,
+  "principles": {
+    "preserve_quran_text": true,
+    "ai_output_is_not_revelation": true,
+    "require_sources": true,
+    "label_uncertainty": true,
+    "never_store_api_keys_here": true
+  },
+  "models": [
+    {
+      "id": "openai_api",
+      "provider": "OpenAI",
+      "role": "مساعد البحث وتنظيم الملاحظات",
+      "status": "connection_failed",
+      "verified": false
+    },
+    {
+      "id": "google_gemini",
+      "provider": "Google",
+      "role": "مراجعة مستقلة ومقارنة النتائج",
+      "status": "not_configured",
+      "verified": false
+    },
+    {
+      "id": "anthropic_claude",
+      "provider": "Anthropic",
+      "role": "مراجعة الاستدلال وجودة التوثيق",
+      "status": "not_configured",
+      "verified": false
+    },
+    {
+      "id": "local_model",
+      "provider": "Qwen / llama.cpp",
+      "role": "نموذج محلي لتنظيم المعرفة",
+      "status": "connected",
+      "verified": true,
+      "test_method": "llama-cli direct Arabic generation"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "model_name": "منير محمد نذير سنجاب - نموذج المليار المحصّن بالآيات",
+  "project": "The Lunar Illuminator",
+  "mode": "local_model_with_quran_safety_rules",
+  "quran_text": {
+    "preserve_exactly": true,
+    "invent_or_complete_verses": false,
+    "add_tafsir": false,
+    "require_verified_source": true
+  },
+  "separation": [
+    "نص قرآني موثق",
+    "مرجع الآية",
+    "معنى لغوي من مصدر موثق",
+    "حقيقة علمية ومصدرها",
+    "فرضية غير مثبتة",
+    "تأمل بشري غير منسوب إلى القرآن"
+  ],
+  "approval": {
+    "automatic_truth_claims": false,
+    "human_review_required": true
+  },
+  "note": "هذه قواعد تشغيل وليست تدريبًا جديدًا لأوزان النموذج."
+}

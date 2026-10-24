@@ -1,0 +1,27 @@
+import subprocess
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+MODEL = ROOT / "models/qwen2.5-0.5b-instruct-q4_k_m.gguf"
+
+def ask(prompt, max_tokens=48):
+    if not MODEL.is_file():
+        raise FileNotFoundError(f"النموذج غير موجود: {MODEL}")
+    result = subprocess.run(
+        [
+            "llama-cli", "-m", str(MODEL),
+            "-p", str(prompt),
+            "-n", str(max(1, min(int(max_tokens), 48))),
+            "-c", "512", "-t", "2"
+        ],
+        capture_output=True, text=True, timeout=90
+    )
+    if result.returncode != 0:
+        raise RuntimeError((result.stderr or result.stdout or "فشل التشغيل")[-1500:])
+    answer = (result.stdout or "").strip()
+    if not answer:
+        raise RuntimeError("النموذج لم يُرجع جوابًا.")
+    return answer
+
+if __name__ == "__main__":
+    print(ask("أجب بالعربية باختصار: لماذا نوثق مصادر المعرفة؟", 32))

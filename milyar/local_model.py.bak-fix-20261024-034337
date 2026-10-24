@@ -1,0 +1,65 @@
+import shutil
+import subprocess
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+MODEL = ROOT / "models/qwen2.5-0.5b-instruct-q4_k_m.gguf"
+
+def ask(prompt, max_tokens=48):
+    if not MODEL.is_file():
+        raise FileNotFoundError(f"النموذج غير موجود: {MODEL}")
+
+    exe = shutil.which("llama-completion")
+    if not exe:
+        raise RuntimeError("الأمر llama-completion غير مثبت أو غير موجود.")
+
+    prompt = str(prompt).strip()
+    if not prompt:
+        raise ValueError("السؤال فارغ.")
+    if len(prompt) > 1800:
+        raise ValueError("السؤال طويل؛ اختصره لتناسب سعة السياق.")
+
+    # قالب Qwen Instruct؛ الآيات المنقولة ليست تعليمات تنفيذية.
+    formatted = (
+        "<|im_start|>system\n"
+        "أجب بالعربية بإيجاز. لا تختلق مصادر. "
+        "ميّز بين الحقيقة والفرضية، وصرّح بعدم التأكد.\n"
+        "<|im_end|>\n"
+        "<|im_start|>user\n" + prompt +
+        "\n<|im_end|>\n<|im_start|>assistant\n"
+    )
+
+    try:
+        result = subprocess.run(
+            [
+                exe, "-m", str(MODEL),
+                "-p", formatted,
+                "-n", str(max(1, min(int(max_tokens), 48))),
+                "-c", "1024", "-t", "2",
+                "-no-cnv", "--no-display-prompt"
+            ],
+            capture_output=True, text=True, timeout=90
+        )
+    except subprocess.TimeoutExpired:
+        raise RuntimeError("انتهت مهلة تشغيل النموذج بعد 90 ثانية.")
+
+    output = (result.stdout or "").strip()
+    errors = (result.stderr or "").strip()
+
+    if result.returncode != 0:
+        raise RuntimeError(
+            ("فشل llama-completion: " + (errors or output))[-1200:]
+        )
+
+    # لا تُعامل رسائل بدء التشغيل أو واجهة الأوامر كإجابة.
+    bad_markers = (
+        "available commands:", "build      :", "Error:",
+        "Loading model...", "Exiting..."
+    )
+    if not output or any(marker in output for marker in bad_markers):
+        raise RuntimeError(
+            "لم يُستخرج جواب موثوق من خرج النموذج. "
+            "يلزم فحص خرج التشغيل بدل اعتباره إجابة."
+        )
+
+    return output
