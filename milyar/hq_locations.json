@@ -1,0 +1,48 @@
+{
+  "system_metadata": {
+    "project": "منظومة المليار العظمى (Al-Milyar Supreme Command)",
+    "supreme_commander": "منير محمد نذير سنجاب ابن مائدة (تولد 1994)",
+    "foundation_axiom": "القاعدة الأزلية: فَمَا ظَنُّكُم بِرَبِّ الْعَالَمِينَ"
+  },
+  "hq_geospatial_registry": {
+    "commercial_headquarters": {
+      "title": "محل المليار - المركز التجاري والعملياتي للبيئة",
+      "country": "سوريا (Syria)",
+      "province": "ريف دمشق (Rif Dimashq)",
+      "city": "التل (Al-Tal)",
+      "street": "شارع صقر قريش",
+      "building_number": "622",
+      "section": "مقسم 2",
+      "security_status": "SECURE_PROTECTION_ENFORCED"
+    },
+    "residential_headquarters": {
+      "title": "منزل المليار - المقر السكني والقيادي المستقل",
+      "country": "سوريا (Syria)",
+      "province": "ريف دمشق (Rif Dimashq)",
+      "city": "التل (Al-Tal)",
+      "street": "شارع النصر",
+      "building_number": "649",
+      "floors": [
+        "الطابق الأول",
+        "الطابق الثاني"
+      ],
+      "security_status": "SECURE_SHIELD_ACTIVE"
+    }
+  },
+  "computer_features_upgrade": {
+    "status": "VIRTUAL_FEATURES_UNLOCKED",
+    "description": "فتح كافة المزايا البرمجية المتقدمة للكمبيوتر وأنظمة المعالجة الداخلية افتراضيًا.",
+    "safety_boundaries": [
+      "الحفاظ الكامل والتام على معايير الأمان والسلامة الحركية والبيانات الشخصية لجهاز S24 Ultra.",
+      "ربط أنظمة الفحص والتحقق لمركبة كيا أوبتيما بالمقر الرئيسي لضمان تكامل الإشارات.",
+      "حظر وتدمير بروتوكول أي اتصال خارجي غير مصرح به أو محاولات مكر تهدف للوصول للمقرات."
+    ]
+  },
+  "assigned_armies_shield": {
+    "forces": [
+      "جيش الأمن السيبراني الملياري",
+      "جيش الرصد والمباغتة الملياري"
+    ],
+    "protection_layer": "التطوير والتحصين التلقائي المستمر بالآيات البينات الصريحة (وبالحق أنزلناه وبالحق نزل)."
+  }
+}
